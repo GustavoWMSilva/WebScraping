@@ -1,0 +1,215 @@
+[
+  {
+    "Posicao": 1,
+    "Titulo": "Um Sonho de Liberdade",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "9,3",
+    "Generos": [
+      "Drama de época",
+      "Drama prisional",
+      "Drama"
+    ],
+    "Diretores": [
+      "Frank Darabont"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0111161/?ref_=chttp_i_1"
+  },
+  {
+    "Posicao": 2,
+    "Titulo": "O Poderoso Chefão",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYTRmMjkwYzYtYTRiMi00NDJjLTk1NjctMDA3MjY2ZWIyMGQ5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYTRmMjkwYzYtYTRiMi00NDJjLTk1NjctMDA3MjY2ZWIyMGQ5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "9,2",
+    "Generos": [
+      "Drama psicológico",
+      "Épico",
+      "Gângster",
+      "Tragédia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Francis Ford Coppola"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0068646/?ref_=chttp_i_2"
+  },
+  {
+    "Posicao": 3,
+    "Titulo": "Batman: O Cavaleiro das Trevas",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTRkYjU1MjQtODMxMS00YTNmLThkOTYtZThlMjE4YWZkZDI0XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTRkYjU1MjQtODMxMS00YTNmLThkOTYtZThlMjE4YWZkZDI0XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "9,1",
+    "Generos": [
+      "Ação épica",
+      "Drama psicológico",
+      "Épico",
+      "Super-herói",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Ação",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Christopher Nolan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0468569/?ref_=chttp_i_3"
+  },
+  {
+    "Posicao": 4,
+    "Titulo": "O Poderoso Chefão: Parte II",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZDNlYmVkMGUtNWZkYi00ZDQ1LWFmZTAtOTY1ZjUyNzE0ZDNmXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZDNlYmVkMGUtNWZkYi00ZDQ1LWFmZTAtOTY1ZjUyNzE0ZDNmXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "9,0",
+    "Generos": [
+      "Épico",
+      "Gângster",
+      "Tragédia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Francis Ford Coppola"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0071562/?ref_=chttp_i_4"
+  },
+  {
+    "Posicao": 5,
+    "Titulo": "12 Homens e uma Sentença",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BODNmNTFjODgtYzJhOC00ZGYyLWE4NzctZmMxZWM4NjhmY2JhXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BODNmNTFjODgtYzJhOC00ZGYyLWE4NzctZmMxZWM4NjhmY2JhXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "9,0",
+    "Generos": [
+      "Drama jurídico",
+      "Drama psicológico",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Sidney Lumet"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0050083/?ref_=chttp_i_5"
+  },
+  {
+    "Posicao": 6,
+    "Titulo": "O Senhor dos Anéis: O Retorno do Rei",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOTg4MTRlMjctYWY2My00ZmU4LTg3ODUtNjhjNGJmNDAyNDE3XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOTg4MTRlMjctYWY2My00ZmU4LTg3ODUtNjhjNGJmNDAyNDE3XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "9,0",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Aventura na montanha",
+      "Épico",
+      "Espada e feitiçaria",
+      "Fantasia épica",
+      "Missão",
+      "Tragédia",
+      "Aventura",
+      "Drama"
+    ],
+    "Diretores": [
+      "Peter Jackson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0167260/?ref_=chttp_i_6"
+  },
+  {
+    "Posicao": 7,
+    "Titulo": "A Lista de Schindler",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMzVlNzhkNTItYWE5MS00ZjAzLWEzMDAtOTc3YmVhZjUzZTMwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMzVlNzhkNTItYWE5MS00ZjAzLWEzMDAtOTc3YmVhZjUzZTMwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "9,0",
+    "Generos": [
+      "Docudrama",
+      "Drama de época",
+      "Drama prisional",
+      "Drama psicológico",
+      "Épico",
+      "Épico histórico",
+      "Tragédia",
+      "Biografia",
+      "Drama",
+      "História"
+    ],
+    "Diretores": [
+      "Steven Spielberg"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0108052/?ref_=chttp_i_7"
+  },
+  {
+    "Posicao": 8,
+    "Titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,9",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Épico",
+      "Espada e feitiçaria",
+      "Fantasia épica",
+      "Fantasia sombria",
+      "Missão",
+      "Aventura",
+      "Drama",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Peter Jackson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0120737/?ref_=chttp_i_8"
+  },
+  {
+    "Posicao": 9,
+    "Titulo": "Pulp Fiction: Tempo de Violência",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BM2JiMDdlY2QtNjk2ZC00ZjhhLWE1ZjktMTYyODBmMWZiOGUzXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BM2JiMDdlY2QtNjk2ZC00ZjhhLWE1ZjktMTYyODBmMWZiOGUzXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,8",
+    "Generos": [
+      "Comédia de humor negro",
+      "Crime de drogas",
+      "Gângster",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Quentin Tarantino"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0110912/?ref_=chttp_i_9"
+  },
+  {
+    "Posicao": 10,
+    "Titulo": "Três Homens em Conflito",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMWFiNDljMjQtMGZlMC00Y2E5LTg2OGUtN2MzMTdhNTkzYjBiXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMWFiNDljMjQtMGZlMC00Y2E5LTg2OGUtN2MzMTdhNTkzYjBiXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,8",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Aventura no deserto",
+      "Comédia de humor negro",
+      "Drama de época",
+      "Épico",
+      "Épico de faroeste",
+      "Faroeste espaguete",
+      "Missão",
+      "Aventura"
+    ],
+    "Diretores": [
+      "Sergio Leone"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0060196/?ref_=chttp_i_10"
+  }
+]

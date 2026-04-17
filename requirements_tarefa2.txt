@@ -1,0 +1,6 @@
+# Necessario para executar a notebook tarefa2_single.ipynb
+# json e re nao aparecem aqui porque ja fazem parte da biblioteca padrao do Python.
+
+selenium==4.43.0
+notebook==7.5.5
+ipykernel==7.2.0
