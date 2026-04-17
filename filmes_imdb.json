@@ -211,5 +211,5143 @@
       "Sergio Leone"
     ],
     "URL": "https://www.imdb.com/pt/title/tt0060196/?ref_=chttp_i_10"
+  },
+  {
+    "Posicao": 11,
+    "Titulo": "O Senhor dos Anéis: As Duas Torres",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNmRhNGRmNDQtMmI3Yy00OTRjLThjOWEtMmEwZmMxNTFjMWQ3XkEyXkFqcGc@._V1_QL75_UX190_CR0,11,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNmRhNGRmNDQtMmI3Yy00OTRjLThjOWEtMmEwZmMxNTFjMWQ3XkEyXkFqcGc@._V1_QL75_UX190_CR0,11,190,281_.jpg",
+    "Nota_IMDb": "8,8",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Épico",
+      "Espada e feitiçaria",
+      "Fantasia épica",
+      "Fantasia sombria",
+      "Missão",
+      "Aventura",
+      "Drama",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Peter Jackson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0167261/?ref_=chttp_i_11"
+  },
+  {
+    "Posicao": 12,
+    "Titulo": "Forrest Gump: O Contador de Histórias",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOGE2OTRmZTAtN2ViZS00YTEzLWIxYzQtMjc1YmNmODBmZDdmXkEyXkFqcGc@._V1_QL75_UY281_CR13,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOGE2OTRmZTAtN2ViZS00YTEzLWIxYzQtMjc1YmNmODBmZDdmXkEyXkFqcGc@._V1_QL75_UY281_CR13,0,190,281_.jpg",
+    "Nota_IMDb": "8,8",
+    "Generos": [
+      "Drama de época",
+      "Épico",
+      "Épico romântico",
+      "Romance trágico",
+      "Drama",
+      "Romance"
+    ],
+    "Diretores": [
+      "Robert Zemeckis"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0109830/?ref_=chttp_i_12"
+  },
+  {
+    "Posicao": 13,
+    "Titulo": "Clube da Luta",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NzM1ZWMtMTExZS00YWU3LTk2MGYtNDI1NDkxZDhiMWJjXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NzM1ZWMtMTExZS00YWU3LTk2MGYtNDI1NDkxZDhiMWJjXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,8",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama no trabalho",
+      "Drama psicológico",
+      "Suspenses psicológicos",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "David Fincher"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0137523/?ref_=chttp_i_13"
+  },
+  {
+    "Posicao": 14,
+    "Titulo": "A Origem",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZmIxYzJkYWQtOWQ4ZS00NjhlLTk0OTMtN2I4ZWQxZGEyZDVhXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZmIxYzJkYWQtOWQ4ZS00NjhlLTk0OTMtN2I4ZWQxZGEyZDVhXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,8",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Épico",
+      "Épico de ficção científica",
+      "Suspenses psicológicos",
+      "Ação",
+      "Aventura",
+      "Ficção científica",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Christopher Nolan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1375666/?ref_=chttp_i_14"
+  },
+  {
+    "Posicao": 15,
+    "Titulo": "Star Wars: Episódio V - O Império Contra-Ataca",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BY2ViMjFhMDMtNTA4Yi00NGJjLTk0ZTktNGVkZjJjMGY4ZTFkXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BY2ViMjFhMDMtNTA4Yi00NGJjLTk0ZTktNGVkZjJjMGY4ZTFkXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,7",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Épico",
+      "Épico de ficção científica",
+      "Espada e feitiçaria",
+      "Fantasia épica",
+      "Fantasia sombria",
+      "Ficção científica distópica",
+      "Ficção científica espacial",
+      "Missão"
+    ],
+    "Diretores": [
+      "Irvin Kershner"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0080684/?ref_=chttp_i_15"
+  },
+  {
+    "Posicao": 16,
+    "Titulo": "Matrix",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZGM1NDM3MTAtMmI0ZC00ZDAwLWEwY2EtNDdhYjZmMjJkNzM0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZGM1NDM3MTAtMmI0ZC00ZDAwLWEwY2EtNDdhYjZmMjJkNzM0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,7",
+    "Generos": [
+      "Ação épica",
+      "Artes marciais",
+      "Cyberpunk",
+      "Épico de ficção científica",
+      "Ficção científica distópica",
+      "Gun Fu",
+      "Inteligência artificial",
+      "Ação",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0133093/?ref_=chttp_i_16"
+  },
+  {
+    "Posicao": 17,
+    "Titulo": "Os Bons Companheiros",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjVmM2I5MTktNmMyYS00M2NkLThiYWMtMjIxOGI5ZDIwNjAwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjVmM2I5MTktNmMyYS00M2NkLThiYWMtMjIxOGI5ZDIwNjAwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,7",
+    "Generos": [
+      "Crime verdadeiro",
+      "Docudrama",
+      "Gângster",
+      "Biografia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Martin Scorsese"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0099685/?ref_=chttp_i_17"
+  },
+  {
+    "Posicao": 18,
+    "Titulo": "Interestelar",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMmUwMmFlMzktYWVlNy00N2I0LWFhMTYtZWI2ZTM4N2I3ZTk0XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMmUwMmFlMzktYWVlNy00N2I0LWFhMTYtZWI2ZTM4N2I3ZTk0XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,7",
+    "Generos": [
+      "Aventura épica",
+      "Drama psicológico",
+      "Épico",
+      "Épico de ficção científica",
+      "Ficção científica espacial",
+      "Missão",
+      "Viagem no tempo",
+      "Aventura",
+      "Drama",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Christopher Nolan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0816692/?ref_=chttp_i_18"
+  },
+  {
+    "Posicao": 19,
+    "Titulo": "Um Estranho no Ninho",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYjIyN2E0MmMtMmI3NS00NTNlLWI5N2MtYjgwYWRjYmRiNDYzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYjIyN2E0MmMtMmI3NS00NTNlLWI5N2MtYjgwYWRjYmRiNDYzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama médico",
+      "Drama psicológico",
+      "Drama"
+    ],
+    "Diretores": [
+      "Miloš Forman"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0073486/?ref_=chttp_i_19"
+  },
+  {
+    "Posicao": 20,
+    "Titulo": "Seven - Os Sete Crimes Capitais",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BN2U5ZDE4OTgtYzY4ZC00MWFhLTg2ZjUtNDQ2ZGE0MDUyNmVkXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BN2U5ZDE4OTgtYzY4ZC00MWFhLTg2ZjUtNDQ2ZGE0MDUyNmVkXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "Assassino em série",
+      "Detetive obstinado",
+      "Drama policial",
+      "Drama psicológico",
+      "Investigação policial",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Crime",
+      "Drama",
+      "Mistério"
+    ],
+    "Diretores": [
+      "David Fincher"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0114369/?ref_=chttp_i_20"
+  },
+  {
+    "Posicao": 21,
+    "Titulo": "A Felicidade Não se Compra",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDNjNTY4YTItZDQ4My00MDU2LTkyZWQtNGQwNmM4ZDRlM2I5XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDNjNTY4YTItZDQ4My00MDU2LTkyZWQtNGQwNmM4ZDRlM2I5XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "Drama psicológico",
+      "Família de férias",
+      "Fantasia sobrenatural",
+      "Romance alegre",
+      "Romance de férias",
+      "Drama",
+      "Família",
+      "Fantasia",
+      "Férias",
+      "Romance"
+    ],
+    "Diretores": [
+      "Frank Capra"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0038650/?ref_=chttp_i_21"
+  },
+  {
+    "Posicao": 22,
+    "Titulo": "O Silêncio dos Inocentes",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTBlY2FjM2EtMWIxYy00NWE2LWE0MWUtMjI2NjZjZDE2YWYwXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTBlY2FjM2EtMWIxYy00NWE2LWE0MWUtMjI2NjZjZDE2YWYwXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "Assassino em série",
+      "Drama psicológico",
+      "Investigação policial",
+      "Suspenses psicológicos",
+      "Terror psicológico",
+      "Crime",
+      "Drama",
+      "Horror",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Jonathan Demme"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0102926/?ref_=chttp_i_22"
+  },
+  {
+    "Posicao": 23,
+    "Titulo": "Os Sete Samurais",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "japonesa",
+      "Ação épica",
+      "Drama de época",
+      "Épico",
+      "Samurai",
+      "Ação",
+      "Drama"
+    ],
+    "Diretores": [
+      "Akira Kurosawa"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0047478/?ref_=chttp_i_23"
+  },
+  {
+    "Posicao": 24,
+    "Titulo": "O Resgate do Soldado Ryan",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZWVkYTBlODQtMjFiMi00ODExLWJhMzUtNGY5MDg0MDQwZTM4XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZWVkYTBlODQtMjFiMi00ODExLWJhMzUtNGY5MDg0MDQwZTM4XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "Ação épica",
+      "Drama de época",
+      "Drama psicológico",
+      "Épico",
+      "Épico de guerra",
+      "Tragédia",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Steven Spielberg"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0120815/?ref_=chttp_i_24"
+  },
+  {
+    "Posicao": 25,
+    "Titulo": "À Espera de um Milagre",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDRjNmFjNjEtMTA3Yi00YTBmLTlhNTctNWFhNWI5NzU3NjVhXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDRjNmFjNjEtMTA3Yi00YTBmLTlhNTctNWFhNWI5NzU3NjVhXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "Drama de época",
+      "Drama prisional",
+      "Fantasia sobrenatural",
+      "Tragédia",
+      "Crime",
+      "Drama",
+      "Fantasia",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Frank Darabont"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0120689/?ref_=chttp_i_25"
+  },
+  {
+    "Posicao": 26,
+    "Titulo": "Cidade de Deus",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNTUyODNkNTItMGUwNi00MTlhLWE5YzMtOTA5MTljNTFhNGRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,5,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNTUyODNkNTItMGUwNi00MTlhLWE5YzMtOTA5MTljNTFhNGRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,5,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "Português",
+      "Amadurecimento",
+      "Drama político",
+      "Drama psicológico",
+      "Épico",
+      "Filme de assalto",
+      "Gângster",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Kátia Lund",
+      "Fernando Meirelles"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0317248/?ref_=chttp_i_26"
+  },
+  {
+    "Posicao": 27,
+    "Titulo": "A Vida é Bela",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYjk5M2UxYTMtMzAxYS00NzE5LTk0M2QtNmM0NzNkZGY5OTUxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYjk5M2UxYTMtMzAxYS00NzE5LTk0M2QtNmM0NzNkZGY5OTUxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "italiano",
+      "Drama de época",
+      "Drama psicológico",
+      "Romance trágico",
+      "Tragédia",
+      "Comédia",
+      "Drama",
+      "Guerra",
+      "Romance"
+    ],
+    "Diretores": [
+      "Roberto Benigni"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0118799/?ref_=chttp_i_27"
+  },
+  {
+    "Posicao": 28,
+    "Titulo": "O Exterminador do Futuro 2: O Julgamento Final",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYTAxN2JhN2UtZmYxZC00Y2VhLWJiNjAtNzliNDAxMzI2MDVlXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYTAxN2JhN2UtZmYxZC00Y2VhLWJiNjAtNzliNDAxMzI2MDVlXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "Ação do Exército de Uma Pessoa",
+      "Ação épica",
+      "Comédia de humor negro",
+      "Épico de ficção científica",
+      "Ficção científica distópica",
+      "Inteligência artificial",
+      "Viagem no tempo",
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "James Cameron"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0103064/?ref_=chttp_i_28"
+  },
+  {
+    "Posicao": 29,
+    "Titulo": "Star Wars: Episódio IV - Uma Nova Esperança",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOWE0MDA0YjgtOGVhMi00NjY0LTkxNGQtYjVjMWU3ZTU5Mjc1XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOWE0MDA0YjgtOGVhMi00NjY0LTkxNGQtYjVjMWU3ZTU5Mjc1XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Épico",
+      "Épico de ficção científica",
+      "Espada e feitiçaria",
+      "Fantasia épica",
+      "Ficção científica distópica",
+      "Ficção científica espacial",
+      "Missão",
+      "Ação"
+    ],
+    "Diretores": [
+      "George Lucas"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0076759/?ref_=chttp_i_29"
+  },
+  {
+    "Posicao": 30,
+    "Titulo": "De Volta para o Futuro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZDcyNmYxN2QtMmViZS00NTQ4LTlhZTAtZjc4MzY2Yjg0M2ZmXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZDcyNmYxN2QtMmViZS00NTQ4LTlhZTAtZjc4MzY2Yjg0M2ZmXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Aventura adolescente",
+      "Aventura urbana",
+      "Comédia adolescente",
+      "Comédia de alto conceito",
+      "Viagem no tempo",
+      "Aventura",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Robert Zemeckis"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0088763/?ref_=chttp_i_30"
+  },
+  {
+    "Posicao": 31,
+    "Titulo": "A Viagem de Chihiro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYmZmMmM4OTYtMDkyNi00ZDI5LThiODItNzhlZGI3ZDJmZDZiXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYmZmMmM4OTYtMDkyNi00ZDI5LThiODItNzhlZGI3ZDJmZDZiXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "japonesa",
+      "Amadurecimento",
+      "Animação desenhada à mão",
+      "Anime",
+      "Contos de fadas",
+      "Fantasia sobrenatural",
+      "Missão",
+      "Animação",
+      "Aventura",
+      "Família"
+    ],
+    "Diretores": [
+      "Hayao Miyazaki"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0245429/?ref_=chttp_i_31"
+  },
+  {
+    "Posicao": 32,
+    "Titulo": "O Pianista",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTIxNDEtZjk4ZS00OWQ4LWI5NDYtZmM1MDM0MDljNDkwXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTIxNDEtZjk4ZS00OWQ4LWI5NDYtZmM1MDM0MDljNDkwXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Docudrama",
+      "Drama de época",
+      "Drama psicológico",
+      "Épico",
+      "Épico de guerra",
+      "Tragédia",
+      "Biografia",
+      "Drama",
+      "Guerra",
+      "Música"
+    ],
+    "Diretores": [
+      "Roman Polanski"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0253474/?ref_=chttp_i_32"
+  },
+  {
+    "Posicao": 33,
+    "Titulo": "Gladiador",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNWQxNzkzMmEtNTliNy00NWU2LWI0ZjgtNTI1NjBjZGRmZjAzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNWQxNzkzMmEtNTliNy00NWU2LWI0ZjgtNTI1NjBjZGRmZjAzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Drama de época",
+      "Épico",
+      "Espada e sandália",
+      "Ação",
+      "Aventura",
+      "Drama"
+    ],
+    "Diretores": [
+      "Ridley Scott"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0172495/?ref_=chttp_i_33"
+  },
+  {
+    "Posicao": 34,
+    "Titulo": "Parasita",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "coreana",
+      "Comédia de humor negro",
+      "Drama psicológico",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Bong Joon Ho"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt6751668/?ref_=chttp_i_34"
+  },
+  {
+    "Posicao": 35,
+    "Titulo": "Túmulo dos Vagalumes",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMzRmNTc4YTktMWQxMy00MjVjLWExNzEtNDU0YjEyMzBlYjEwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMzRmNTc4YTktMWQxMy00MjVjLWExNzEtNDU0YjEyMzBlYjEwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "japonesa",
+      "Animação desenhada à mão",
+      "Animação para adultos",
+      "Anime",
+      "Drama de época",
+      "Drama psicológico",
+      "Tragédia",
+      "Animação",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Isao Takahata"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0095327/?ref_=chttp_i_35"
+  },
+  {
+    "Posicao": 36,
+    "Titulo": "Psicose",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOWVhMTE0MjUtMjY0ZS00YzM2LTg4NTUtODM3NzkzMjZmNjAwXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOWVhMTE0MjUtMjY0ZS00YzM2LTg4NTUtODM3NzkzMjZmNjAwXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Comédia de humor negro",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Terror psicológico",
+      "Terror slasher",
+      "Drama",
+      "Horror",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Alfred Hitchcock"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0054215/?ref_=chttp_i_36"
+  },
+  {
+    "Posicao": 37,
+    "Titulo": "O Rei Leão",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzJmNDVmNTAtODI3Mi00Y2Y2LTg4MDItNGI0ODE4NTQ1ZmNlXkEyXkFqcGc@._V1_QL75_UY281_CR13,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzJmNDVmNTAtODI3Mi00Y2Y2LTg4MDItNGI0ODE4NTQ1ZmNlXkEyXkFqcGc@._V1_QL75_UY281_CR13,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Amadurecimento",
+      "Animação desenhada à mão",
+      "Aventura animal",
+      "Aventura épica",
+      "Aventura na selva",
+      "Animação",
+      "Aventura",
+      "Drama",
+      "Família",
+      "Musical"
+    ],
+    "Diretores": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0110357/?ref_=chttp_i_37"
+  },
+  {
+    "Posicao": 38,
+    "Titulo": "Harakiri",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "japonesa",
+      "Drama de época",
+      "Drama psicológico",
+      "Épico",
+      "Drama",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Masaki Kobayashi"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0056058/?ref_=chttp_i_38"
+  },
+  {
+    "Posicao": 39,
+    "Titulo": "Kill Bill: Todo o Sangue Derramado",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDM1Y2E3ZGItNDAyZS00NGYwLTlhMTctMzI4NjFmMTRjYzU0XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDM1Y2E3ZGItNDAyZS00NGYwLTlhMTctMzI4NjFmMTRjYzU0XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,8",
+    "Generos": [
+      "Ação do Exército de Uma Pessoa",
+      "Ação épica",
+      "Artes marciais",
+      "Kung Fu",
+      "Ação",
+      "Crime",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Quentin Tarantino"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt6019206/?ref_=chttp_i_39"
+  },
+  {
+    "Posicao": 40,
+    "Titulo": "Os Infiltrados",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYjcyNGRkODktYmJkNy00MDljLTg3YTItZDMzYzA2NTk5MmZiXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYjcyNGRkODktYmJkNy00MDljLTg3YTItZDMzYzA2NTk5MmZiXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Drama policial",
+      "Épico",
+      "Gângster",
+      "Suspenses psicológicos",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Martin Scorsese"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0407887/?ref_=chttp_i_40"
+  },
+  {
+    "Posicao": 41,
+    "Titulo": "Whiplash: Em Busca da Perfeição",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYThjNThkNDYtODIzYS00N2ZhLTliNGYtNmE2NDdiYTBiNjQ0XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYThjNThkNDYtODIzYS00N2ZhLTliNGYtNmE2NDdiYTBiNjQ0XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Drama psicológico",
+      "Drama",
+      "Música"
+    ],
+    "Diretores": [
+      "Damien Chazelle"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt2582802/?ref_=chttp_i_41"
+  },
+  {
+    "Posicao": 42,
+    "Titulo": "O Grande Truque",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZGYyZjUzOTQtZWFiMi00YmZiLWI5MjUtYzQzZDE2MjgwNjNkXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZGYyZjUzOTQtZWFiMi00YmZiLWI5MjUtYzQzZDE2MjgwNjNkXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Drama de época",
+      "Steampunk",
+      "Tragédia",
+      "Drama",
+      "Ficção científica",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Christopher Nolan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0482571/?ref_=chttp_i_42"
+  },
+  {
+    "Posicao": 43,
+    "Titulo": "A Outra História Americana",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NDk1M2YtOTBmMy00MDhlLWJhZmMtNzI4ODc4NTg2ZmQ4XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NDk1M2YtOTBmMy00MDhlLWJhZmMtNzI4ODc4NTg2ZmQ4XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Drama político",
+      "Drama prisional",
+      "Drama psicológico",
+      "Gângster",
+      "Tragédia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Tony Kaye"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0120586/?ref_=chttp_i_43"
+  },
+  {
+    "Posicao": 44,
+    "Titulo": "O Profissional",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjQ2ZWE4ZTQtM2Q2MS00Y2NjLWI0MGUtN2U2ODgwZThiZjc0XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjQ2ZWE4ZTQtM2Q2MS00Y2NjLWI0MGUtN2U2ODgwZThiZjc0XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Ação do Exército de Uma Pessoa",
+      "Drama psicológico",
+      "Gângster",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Ação",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Luc Besson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0110413/?ref_=chttp_i_44"
+  },
+  {
+    "Posicao": 45,
+    "Titulo": "Homem-Aranha: Através do Aranhaverso",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjgzNWYyOWItMGQxYi00MzQ2LWFhNGQtMDI4OWUyMThmZjk3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjgzNWYyOWItMGQxYi00MzQ2LWFhNGQtMDI4OWUyMThmZjk3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Ação épica",
+      "Animação de computador",
+      "Aventura adolescente",
+      "Aventura épica",
+      "Aventura urbana",
+      "Comédia de humor negro",
+      "Épico",
+      "Épico de ficção científica",
+      "Fantasia adolescente",
+      "Fantasia épica"
+    ],
+    "Diretores": [
+      "Joaquim Dos Santos",
+      "Kemp Powers",
+      "Justin K. Thompson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt9362722/?ref_=chttp_i_45"
+  },
+  {
+    "Posicao": 46,
+    "Titulo": "Cinema Paradiso",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMThmMGEzMzYtZjllOC00OTQ3LTg3MDEtNTkwODM4Y2I3MzY3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMThmMGEzMzYtZjllOC00OTQ3LTg3MDEtNTkwODM4Y2I3MzY3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "italiano",
+      "Amadurecimento",
+      "Drama",
+      "Romance"
+    ],
+    "Diretores": [
+      "Giuseppe Tornatore"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0095765/?ref_=chttp_i_46"
+  },
+  {
+    "Posicao": 47,
+    "Titulo": "Casablanca",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Drama psicológico",
+      "Drama",
+      "Guerra",
+      "Romance"
+    ],
+    "Diretores": [
+      "Michael Curtiz"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0034583/?ref_=chttp_i_47"
+  },
+  {
+    "Posicao": 48,
+    "Titulo": "Intocáveis",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "francês",
+      "Buddy Comedy",
+      "Docudrama",
+      "Comédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Olivier Nakache",
+      "Éric Toledano"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1675434/?ref_=chttp_i_48"
+  },
+  {
+    "Posicao": 49,
+    "Titulo": "Os Suspeitos",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTU3OWU4MzYtMzgxMy00YWI4LWJmZDEtZTVjZjAxNmU4ZmFkXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTU3OWU4MzYtMzgxMy00YWI4LWJmZDEtZTVjZjAxNmU4ZmFkXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Assalto",
+      "Drama psicológico",
+      "Filme de assalto",
+      "Gângster",
+      "Quem não sabe",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Crime",
+      "Drama",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Bryan Singer"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0114814/?ref_=chttp_i_49"
+  },
+  {
+    "Posicao": 50,
+    "Titulo": "Django Livre",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzZkZTEwODktNTFiNC00NWIxLWJlZjUtYTc4MGFmOWQ3NWY1XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzZkZTEwODktNTFiNC00NWIxLWJlZjUtYTc4MGFmOWQ3NWY1XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Ação do Exército de Uma Pessoa",
+      "Comédia de humor negro",
+      "Drama de época",
+      "Épico",
+      "Épico de faroeste",
+      "Drama",
+      "Ocidente"
+    ],
+    "Diretores": [
+      "Quentin Tarantino"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1853728/?ref_=chttp_i_50"
+  },
+  {
+    "Posicao": 51,
+    "Titulo": "Alien - O 8º Passageiro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Cyberpunk",
+      "Ficção científica espacial",
+      "Invasão alienígena",
+      "Terror monstruoso",
+      "Tragédia",
+      "Ficção científica",
+      "Horror"
+    ],
+    "Diretores": [
+      "Ridley Scott"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0078748/?ref_=chttp_i_51"
+  },
+  {
+    "Posicao": 52,
+    "Titulo": "Janela Indiscreta",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOTQwYmM2YmQtNWYxYi00ZTkzLTkyYzEtNDNkZTQyYTQ0ZTAyXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOTQwYmM2YmQtNWYxYi00ZTkzLTkyYzEtNDNkZTQyYTQ0ZTAyXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Comédia de humor negro",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Alfred Hitchcock"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0047396/?ref_=chttp_i_52"
+  },
+  {
+    "Posicao": 53,
+    "Titulo": "Tempos Modernos",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMmY1ZGQzMTgtNjgxZi00ZGRmLTgwOGEtNmRlYzljN2MxZGU2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMmY1ZGQzMTgtNjgxZi00ZGRmLTgwOGEtNmRlYzljN2MxZGU2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Comédia romântica",
+      "Pastelão",
+      "Sátira",
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "Diretores": [
+      "Charles Chaplin"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0027977/?ref_=chttp_i_53"
+  },
+  {
+    "Posicao": 54,
+    "Titulo": "Era uma Vez no Oeste",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzhmNzIzYjUtNTBjOC00MzNmLWJlNDgtOTY3OGYyMTkxZWYzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzhmNzIzYjUtNTBjOC00MzNmLWJlNDgtOTY3OGYyMTkxZWYzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Aventura épica",
+      "Aventura no deserto",
+      "Drama de época",
+      "Épico",
+      "Épico de faroeste",
+      "Faroeste espaguete",
+      "Missão",
+      "Drama",
+      "Ocidente"
+    ],
+    "Diretores": [
+      "Sergio Leone"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0064116/?ref_=chttp_i_54"
+  },
+  {
+    "Posicao": 55,
+    "Titulo": "Luzes da Cidade",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,5",
+    "Generos": [
+      "Comédia romântica",
+      "Pastelão",
+      "Romance alegre",
+      "Sátira",
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "Diretores": [
+      "Charles Chaplin"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0021749/?ref_=chttp_i_55"
+  },
+  {
+    "Posicao": 56,
+    "Titulo": "Apocalypse Now",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_QL75_UX190_CR0,5,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_QL75_UX190_CR0,5,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Aventura épica",
+      "Detetive obstinado",
+      "Drama psicológico",
+      "Épico",
+      "Épico de guerra",
+      "Missão",
+      "Suspense – Mistério",
+      "Drama",
+      "Guerra",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Francis Ford Coppola"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0078788/?ref_=chttp_i_56"
+  },
+  {
+    "Posicao": 57,
+    "Titulo": "WALL·E",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTc5ZDkzNWQtMDg2OS00MDc0LTg4OTgtMDMxZDYzYzlkOWJjXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTc5ZDkzNWQtMDg2OS00MDc0LTg4OTgtMDMxZDYzYzlkOWJjXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Animação de computador",
+      "Aventura épica",
+      "Drama psicológico",
+      "Épico",
+      "Épico de ficção científica",
+      "Ficção científica distópica",
+      "Ficção científica espacial",
+      "Inteligência artificial",
+      "Animação",
+      "Aventura"
+    ],
+    "Diretores": [
+      "Andrew Stanton"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0910970/?ref_=chttp_i_57"
+  },
+  {
+    "Posicao": 58,
+    "Titulo": "Amnésia",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOThkN2IwYWQtN2IzYS00NDdjLTkwN2UtYmY4NGU1NTJjNzUwXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOThkN2IwYWQtN2IzYS00NDdjLTkwN2UtYmY4NGU1NTJjNzUwXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Drama psicológico",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Christopher Nolan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0209144/?ref_=chttp_i_58"
+  },
+  {
+    "Posicao": 59,
+    "Titulo": "Duna: Parte 2",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzk5MTE4YTUtNGU2My00MTYxLWE5NGItODk4YWFkOWYyMjA5XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzk5MTE4YTUtNGU2My00MTYxLWE5NGItODk4YWFkOWYyMjA5XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Aventura no deserto",
+      "Épico",
+      "Épico de ficção científica",
+      "Ficção científica espacial",
+      "Ação",
+      "Aventura",
+      "Drama",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Denis Villeneuve"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt15239678/?ref_=chttp_i_59"
+  },
+  {
+    "Posicao": 60,
+    "Titulo": "Os Caçadores da Arca Perdida",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzk1ZTBkYmMtNTc3Yy00ZTczLThlZDQtNDhjZDgzMWRlYTI0XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzk1ZTBkYmMtNTc3Yy00ZTczLThlZDQtNDhjZDgzMWRlYTI0XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Ação épica",
+      "Aventura de viajar pelo mundo",
+      "Aventura épica",
+      "Aventura no deserto",
+      "Missão",
+      "Ação",
+      "Aventura"
+    ],
+    "Diretores": [
+      "Steven Spielberg"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0082971/?ref_=chttp_i_60"
+  },
+  {
+    "Posicao": 61,
+    "Titulo": "Vingadores: Guerra Infinita",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjg0NDMxZWItODc4ZC00YjM4LWJmNmYtNjlmZTE5NTEwNzEzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjg0NDMxZWItODc4ZC00YjM4LWJmNmYtNjlmZTE5NTEwNzEzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Comédia de humor negro",
+      "Épico",
+      "Épico de ficção científica",
+      "Ficção científica espacial",
+      "Invasão alienígena",
+      "Super-herói",
+      "Ação",
+      "Aventura"
+    ],
+    "Diretores": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt4154756/?ref_=chttp_i_61"
+  },
+  {
+    "Posicao": 62,
+    "Titulo": "A Vida dos Outros",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjVhM2VmMDctYjU1NS00MjEwLWI4NGEtNmU1ZjcwZTU3ZGIyXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjVhM2VmMDctYjU1NS00MjEwLWI4NGEtNmU1ZjcwZTU3ZGIyXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "alemã",
+      "Drama psicológico",
+      "Espião",
+      "Thriller político",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Florian Henckel von Donnersmarck"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0405094/?ref_=chttp_i_62"
+  },
+  {
+    "Posicao": 63,
+    "Titulo": "Homem-Aranha: No Aranhaverso",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDM0MjkxODUtNjQwYy00Y2I1LWE0YTQtMzM2ZWQxOTAwNTQ2XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDM0MjkxODUtNjQwYy00Y2I1LWE0YTQtMzM2ZWQxOTAwNTQ2XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Ação épica",
+      "Amadurecimento",
+      "Animação de computador",
+      "Aventura adolescente",
+      "Aventura urbana",
+      "Comédia de humor negro",
+      "Drama adolescente",
+      "Fantasia sobrenatural",
+      "Super-herói",
+      "Ação"
+    ],
+    "Diretores": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt4633694/?ref_=chttp_i_63"
+  },
+  {
+    "Posicao": 64,
+    "Titulo": "Crepúsculo dos Deuses",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama do mundo do espetáculo",
+      "Drama psicológico",
+      "Filme Noir",
+      "Tragédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Billy Wilder"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0043014/?ref_=chttp_i_64"
+  },
+  {
+    "Posicao": 65,
+    "Titulo": "Testemunha de Acusação",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjQ4ZjgwNzMtNGJmNC00YzU4LTgzOGUtOGUzYWNjNGUzOTYxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjQ4ZjgwNzMtNGJmNC00YzU4LTgzOGUtOGUzYWNjNGUzOTYxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Drama jurídico",
+      "Quem não sabe",
+      "Suspense jurídico",
+      "Crime",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Billy Wilder"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0051201/?ref_=chttp_i_65"
+  },
+  {
+    "Posicao": 66,
+    "Titulo": "Glória Feita de Sangue",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZWI3NDQwMzUtOGQ5ZS00MDAzLTgwMGYtODM3NGY5NjJmYmVhXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZWI3NDQwMzUtOGQ5ZS00MDAzLTgwMGYtODM3NGY5NjJmYmVhXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Drama de época",
+      "Drama jurídico",
+      "Drama político",
+      "Drama psicológico",
+      "Épico",
+      "Épico de guerra",
+      "Tragédia",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Stanley Kubrick"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0050825/?ref_=chttp_i_66"
+  },
+  {
+    "Posicao": 67,
+    "Titulo": "O iluminado",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Drama psicológico",
+      "Terror psicológico",
+      "Terror sobrenatural",
+      "Drama",
+      "Horror"
+    ],
+    "Diretores": [
+      "Stanley Kubrick"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0081505/?ref_=chttp_i_67"
+  },
+  {
+    "Posicao": 68,
+    "Titulo": "O Grande Ditador",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama político",
+      "Paródia",
+      "Pastelão",
+      "Sátira",
+      "Comédia",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Charles Chaplin"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0032553/?ref_=chttp_i_68"
+  },
+  {
+    "Posicao": 69,
+    "Titulo": "Bastardos Inglórios",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BN2Y1ZmE1ZWItZjQ1OS00YWQxLWE4NWMtNzJkODA4MmE3NTRmXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BN2Y1ZmE1ZWItZjQ1OS00YWQxLWE4NWMtNzJkODA4MmE3NTRmXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama de época",
+      "Aventura",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Quentin Tarantino"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0361748/?ref_=chttp_i_69"
+  },
+  {
+    "Posicao": 70,
+    "Titulo": "Repetente",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_QL75_UY281_CR12,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_QL75_UY281_CR12,0,190,281_.jpg",
+    "Nota_IMDb": "8,7",
+    "Generos": [
+      "hindi",
+      "Docudrama",
+      "Biografia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Vidhu Vinod Chopra"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt23849204/?ref_=chttp_i_70"
+  },
+  {
+    "Posicao": 71,
+    "Titulo": "Aliens: O Resgate",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTY2ZmQtYWNiNC00ZWQ5LWI4NGQtMDUzNjU3OTRmZDJlXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTY2ZmQtYWNiNC00ZWQ5LWI4NGQtMDUzNjU3OTRmZDJlXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Cyberpunk",
+      "Ficção científica espacial",
+      "Invasão alienígena",
+      "sobrevivência",
+      "Terror monstruoso",
+      "Tragédia",
+      "Ação",
+      "Aventura",
+      "Ficção científica",
+      "Horror"
+    ],
+    "Diretores": [
+      "James Cameron"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0090605/?ref_=chttp_i_71"
+  },
+  {
+    "Posicao": 72,
+    "Titulo": "Céu e Inferno",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "japonesa",
+      "Investigação policial",
+      "Suspenses psicológicos",
+      "Crime",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Akira Kurosawa"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0057565/?ref_=chttp_i_72"
+  },
+  {
+    "Posicao": 73,
+    "Titulo": "Gênio Indomável",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjRlYzRmZTQtMWU5ZS00NzMyLTkwNGMtY2Q2ZWY1ZDVkOWU5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjRlYzRmZTQtMWU5ZS00NzMyLTkwNGMtY2Q2ZWY1ZDVkOWU5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Amadurecimento",
+      "Drama psicológico",
+      "Drama",
+      "Romance"
+    ],
+    "Diretores": [
+      "Gus Van Sant"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0119217/?ref_=chttp_i_73"
+  },
+  {
+    "Posicao": 74,
+    "Titulo": "Vingadores: Ultimato",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMWYzMzk2MTktYjMzYS00MjVmLWE1ZDgtMzczMDc1NjZhODUwXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMWYzMzk2MTktYjMzYS00MjVmLWE1ZDgtMzczMDc1NjZhODUwXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Comédia de humor negro",
+      "Épico",
+      "Épico de ficção científica",
+      "Ficção científica espacial",
+      "Super-herói",
+      "Tragédia",
+      "Viagem no tempo",
+      "Ação"
+    ],
+    "Diretores": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt4154796/?ref_=chttp_i_74"
+  },
+  {
+    "Posicao": 75,
+    "Titulo": "Batman: O Cavaleiro das Trevas Ressurge",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjg2NjBjNGEtNGQ4ZC00NjE2LWFkNjktN2E5MzIzNWYxM2Y4XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjg2NjBjNGEtNGQ4ZC00NjE2LWFkNjktN2E5MzIzNWYxM2Y4XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Ação épica",
+      "Drama psicológico",
+      "Épico",
+      "Super-herói",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Ação",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Christopher Nolan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1345836/?ref_=chttp_i_75"
+  },
+  {
+    "Posicao": 76,
+    "Titulo": "Viva: A Vida é uma Festa",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjkyZDZjNzMtMmY0NS00NWMxLThjNWQtNjBlMjI2N2UwZGFiXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjkyZDZjNzMtMmY0NS00NWMxLThjNWQtNjBlMjI2N2UwZGFiXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Animação de computador",
+      "Aventura épica",
+      "Comédia de humor negro",
+      "Drama psicológico",
+      "Épico",
+      "Fantasia épica",
+      "Fantasia sobrenatural",
+      "Animação",
+      "Aventura",
+      "Drama"
+    ],
+    "Diretores": [
+      "Adrian Molina",
+      "Lee Unkrich"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt2380307/?ref_=chttp_i_76"
+  },
+  {
+    "Posicao": 77,
+    "Titulo": "Amadeus",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BY2I4OWUxODMtN2E2MC00NzAxLTgxNTQtZGQzYjE0ODY0ZGI2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BY2I4OWUxODMtN2E2MC00NzAxLTgxNTQtZGQzYjE0ODY0ZGI2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Drama de época",
+      "Drama histórico",
+      "Drama psicológico",
+      "Épico",
+      "Tragédia",
+      "Biografia",
+      "Drama",
+      "Música"
+    ],
+    "Diretores": [
+      "Miloš Forman"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0086879/?ref_=chttp_i_77"
+  },
+  {
+    "Posicao": 78,
+    "Titulo": "Toy Story",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BODdhYzcxYmYtOTAzZS00YTRkLTgzODYtNGUzN2Y2ZjNlZTBmXkEyXkFqcGc@._V1_QL75_UY281_CR20,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BODdhYzcxYmYtOTAzZS00YTRkLTgzODYtNGUzN2Y2ZjNlZTBmXkEyXkFqcGc@._V1_QL75_UY281_CR20,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Animação de computador",
+      "Aventura urbana",
+      "Buddy Comedy",
+      "Fantasia sobrenatural",
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Família",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "John Lasseter"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0114709/?ref_=chttp_i_78"
+  },
+  {
+    "Posicao": 79,
+    "Titulo": "Your Name",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "japonesa",
+      "Animação desenhada à mão",
+      "Anime",
+      "Drama psicológico",
+      "Shojo",
+      "Animação",
+      "Drama",
+      "Fantasia",
+      "Romance"
+    ],
+    "Diretores": [
+      "Makoto Shinkai"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt5311514/?ref_=chttp_i_79"
+  },
+  {
+    "Posicao": 80,
+    "Titulo": "O Barco: Inferno no Mar",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzM2MzhlOGQtMWVlMS00MWY2LTlhNzItMGQwYTk5ZmE1OTZiXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzM2MzhlOGQtMWVlMS00MWY2LTlhNzItMGQwYTk5ZmE1OTZiXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "alemã",
+      "Drama de época",
+      "Drama psicológico",
+      "Épico",
+      "Épico de guerra",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Wolfgang Petersen"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0082096/?ref_=chttp_i_80"
+  },
+  {
+    "Posicao": 81,
+    "Titulo": "Coração Valente",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0YzY2NTUtMjEyNi00ZTI0LWE0MzktNmQ2MjNjZTY4ZGJhXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0YzY2NTUtMjEyNi00ZTI0LWE0MzktNmQ2MjNjZTY4ZGJhXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Ação épica",
+      "Drama de época",
+      "Drama histórico",
+      "Épico",
+      "Épico de guerra",
+      "Biografia",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Mel Gibson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0112573/?ref_=chttp_i_81"
+  },
+  {
+    "Posicao": 82,
+    "Titulo": "Oldboy",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "coreana",
+      "Ação do Exército de Uma Pessoa",
+      "Drama psicológico",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Ação",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Park Chan-wook"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0364569/?ref_=chttp_i_82"
+  },
+  {
+    "Posicao": 83,
+    "Titulo": "Princesa Mononoke",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMmJjZGUxNGEtNmQ0OS00MjVjLTk5YWItMjdhNmRhMmI3M2M4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMmJjZGUxNGEtNmQ0OS00MjVjLTk5YWItMjdhNmRhMmI3M2M4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "japonesa",
+      "Ação épica",
+      "Animação desenhada à mão",
+      "Animação para adultos",
+      "Anime",
+      "Aventura épica",
+      "Épico",
+      "Fantasia épica",
+      "Fantasia sobrenatural",
+      "Fantasia sombria"
+    ],
+    "Diretores": [
+      "Hayao Miyazaki"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0119698/?ref_=chttp_i_83"
+  },
+  {
+    "Posicao": 84,
+    "Titulo": "Dr. Fantástico",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzc2MGIzODQtY2E4OS00MWQ1LWFiYjEtZTlhNTI0MTJjZjFmXkEyXkFqcGc@._V1_QL75_UY281_CR13,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzc2MGIzODQtY2E4OS00MWQ1LWFiYjEtZTlhNTI0MTJjZjFmXkEyXkFqcGc@._V1_QL75_UY281_CR13,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Comédia de humor negro",
+      "Comédia peculiar",
+      "Drama político",
+      "Drama psicológico",
+      "Farsa",
+      "Sátira",
+      "Tragédia",
+      "Comédia",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Stanley Kubrick"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0057012/?ref_=chttp_i_84"
+  },
+  {
+    "Posicao": 85,
+    "Titulo": "3 Idiotas",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "hindi",
+      "Amadurecimento",
+      "Buddy Comedy",
+      "Comédia peculiar",
+      "Sátira",
+      "Comédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Rajkumar Hirani"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1187043/?ref_=chttp_i_85"
+  },
+  {
+    "Posicao": 86,
+    "Titulo": "Beleza Americana",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYTBjZjA0YTYtZDAwNi00ZmQyLWIwZGUtZmQ2MWM1MmM4NTY4XkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYTBjZjA0YTYtZDAwNi00ZmQyLWIwZGUtZmQ2MWM1MmM4NTY4XkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama psicológico",
+      "Tragédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Sam Mendes"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0169547/?ref_=chttp_i_86"
+  },
+  {
+    "Posicao": 87,
+    "Titulo": "Devoradores de Estrelas",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNTJlOTRhMGMtOTI5MC00ZmEyLWE3NDItMDBiMDRkYTFiMTY2XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNTJlOTRhMGMtOTI5MC00ZmEyLWE3NDItMDBiMDRkYTFiMTY2XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Aventura épica",
+      "Buddy Comedy",
+      "Comédia de humor negro",
+      "Épico",
+      "Épico de ficção científica",
+      "Ficção científica espacial",
+      "Aventura",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Phil Lord",
+      "Christopher Miller"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt12042730/?ref_=chttp_i_87"
+  },
+  {
+    "Posicao": 88,
+    "Titulo": "Cafarnaum",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTJjZDkxOWItYjQwYi00MmJjLTlmMDItNTdiMDQ2M2I4OTYyXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTJjZDkxOWItYjQwYi00MmJjLTlmMDItNTdiMDQ2M2I4OTYyXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "árabe",
+      "Amadurecimento",
+      "Drama jurídico",
+      "Drama psicológico",
+      "Drama"
+    ],
+    "Diretores": [
+      "Nadine Labaki"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt8267604/?ref_=chttp_i_88"
+  },
+  {
+    "Posicao": 89,
+    "Titulo": "Cantando na Chuva",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjQyYWEwZjctN2U1OS00ZDc0LWJhZjgtZmZlZWVjZWViNDMwXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjQyYWEwZjctN2U1OS00ZDc0LWJhZjgtZmZlZWVjZWViNDMwXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Comédia romântica",
+      "Jukebox Musical",
+      "Musical clássico",
+      "Pastelão",
+      "Romance alegre",
+      "Sátira",
+      "Comédia",
+      "Musical",
+      "Romance"
+    ],
+    "Diretores": [
+      "Stanley Donen",
+      "Gene Kelly"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0045152/?ref_=chttp_i_89"
+  },
+  {
+    "Posicao": 90,
+    "Titulo": "Coringa",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzM3ODNlNTAtYTYxNy00NjZhLTg3MGMtYTIwOWYxNzAwMzQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzM3ODNlNTAtYTYxNy00NjZhLTg3MGMtYTIwOWYxNzAwMzQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Drama de época",
+      "Drama psicológico",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Todd Phillips"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt7286456/?ref_=chttp_i_90"
+  },
+  {
+    "Posicao": 91,
+    "Titulo": "Era uma Vez na América",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOWIzZWUyMWItMTdhZS00YzJjLTlkMmYtNmUwZTQ5YTY2YjM4XkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOWIzZWUyMWItMTdhZS00YzJjLTlkMmYtNmUwZTQ5YTY2YjM4XkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama de época",
+      "Épico",
+      "Gângster",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Sergio Leone"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0087843/?ref_=chttp_i_91"
+  },
+  {
+    "Posicao": 92,
+    "Titulo": "Star Wars: Episódio VI - O Retorno de Jedi",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDM4NTVhNDgtM2QzYi00OTM0LThiYjMtZTNhYWQ3NDI3NjQ5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDM4NTVhNDgtM2QzYi00OTM0LThiYjMtZTNhYWQ3NDI3NjQ5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Ação épica",
+      "Aventura de viajar pelo mundo",
+      "Aventura épica",
+      "Épico",
+      "Épico de ficção científica",
+      "Espada e feitiçaria",
+      "Fantasia épica",
+      "Fantasia sombria",
+      "Ficção científica distópica",
+      "Ficção científica espacial"
+    ],
+    "Diretores": [
+      "Richard Marquand"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0086190/?ref_=chttp_i_92"
+  },
+  {
+    "Posicao": 93,
+    "Titulo": "Vá e Veja",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMGU5YTI2ODktYjdjMS00MDE3LWEzZTAtZjdlOGRhYmExMzg1XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMGU5YTI2ODktYjdjMS00MDE3LWEzZTAtZjdlOGRhYmExMzg1XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "russa",
+      "Drama de época",
+      "Drama psicológico",
+      "Épico",
+      "Épico de guerra",
+      "sobrevivência",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Elem Klimov"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0091251/?ref_=chttp_i_93"
+  },
+  {
+    "Posicao": 94,
+    "Titulo": "Réquiem para um Sonho",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzk3ZjA2NDQtYTNiYi00ODg4LTk5MzYtOTU3ZWMzMDhjY2NiXkEyXkFqcGc@._V1_QL75_UY281_CR16,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzk3ZjA2NDQtYTNiYi00ODg4LTk5MzYtOTU3ZWMzMDhjY2NiXkEyXkFqcGc@._V1_QL75_UY281_CR16,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Drama psicológico",
+      "Épico",
+      "Tragédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Darren Aronofsky"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0180093/?ref_=chttp_i_94"
+  },
+  {
+    "Posicao": 95,
+    "Titulo": "Toy Story 3",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BODRmODA5NmMtYjYxMS00YWJjLWFjNDMtNDUwMWY5NzdjYjQ1XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BODRmODA5NmMtYjYxMS00YWJjLWFjNDMtNDUwMWY5NzdjYjQ1XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Animação de computador",
+      "Aventura urbana",
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Família",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Lee Unkrich"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0435761/?ref_=chttp_i_95"
+  },
+  {
+    "Posicao": 96,
+    "Titulo": "Viver",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMmNlZTk4ZjQtY2I5NS00NmNiLTlkNmUtYTc3YmE0ZTk3OGNiXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMmNlZTk4ZjQtY2I5NS00NmNiLTlkNmUtYTc3YmE0ZTk3OGNiXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "japonesa",
+      "Drama psicológico",
+      "Tragédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Akira Kurosawa"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0044741/?ref_=chttp_i_96"
+  },
+  {
+    "Posicao": 97,
+    "Titulo": "A Caça",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNGVmNTYyNDUtYWE1ZC00ODlhLWEzYjktZGRlYmU3YzZlNjVhXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNGVmNTYyNDUtYWE1ZC00ODlhLWEzYjktZGRlYmU3YzZlNjVhXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Dinamarquês",
+      "Drama psicológico",
+      "Tragédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Thomas Vinterberg"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt2106476/?ref_=chttp_i_97"
+  },
+  {
+    "Posicao": 98,
+    "Titulo": "Incêndios",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "francês",
+      "Drama psicológico",
+      "Suspense – Mistério",
+      "Drama",
+      "Guerra",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Denis Villeneuve"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1255953/?ref_=chttp_i_98"
+  },
+  {
+    "Posicao": 99,
+    "Titulo": "Brilho Eterno de uma Mente sem Lembranças",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZDVmNzMyNjctOWIxMS00MmU5LTljYjEtYzcxNWU4YWIxMGMyXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZDVmNzMyNjctOWIxMS00MmU5LTljYjEtYzcxNWU4YWIxMGMyXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Drama psicológico",
+      "Épico",
+      "Épico de ficção científica",
+      "Épico romântico",
+      "Romance sombrio",
+      "Drama",
+      "Ficção científica",
+      "Romance"
+    ],
+    "Diretores": [
+      "Michel Gondry"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0338013/?ref_=chttp_i_99"
+  },
+  {
+    "Posicao": 100,
+    "Titulo": "Se Meu Apartamento Falasse",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_QL75_UX190_CR0,9,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_QL75_UX190_CR0,9,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Comédia de humor negro",
+      "Comédia natalina",
+      "Comédia peculiar",
+      "Comédia romântica",
+      "Drama no trabalho",
+      "Drama psicológico",
+      "Farsa",
+      "Romance alegre",
+      "Romance de férias",
+      "Sátira"
+    ],
+    "Diretores": [
+      "Billy Wilder"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0053604/?ref_=chttp_i_100"
+  },
+  {
+    "Posicao": 101,
+    "Titulo": "Lawrence da Arábia",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMWZjYTE5NTQtODY1Ny00NTcwLTg2N2EtODA3NzE0OGE0MDQ2XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMWZjYTE5NTQtODY1Ny00NTcwLTg2N2EtODA3NzE0OGE0MDQ2XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Aventura épica",
+      "Aventura no deserto",
+      "Épico",
+      "Épico de guerra",
+      "Tragédia",
+      "Aventura",
+      "Biografia",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "David Lean"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0056172/?ref_=chttp_i_101"
+  },
+  {
+    "Posicao": 102,
+    "Titulo": "Fogo Contra Fogo",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOGQ1OWZmOTgtM2YxZS00ZWI3LWFkMWMtYjA0NWE5NjgwNzI4XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOGQ1OWZmOTgtM2YxZS00ZWI3LWFkMWMtYjA0NWE5NjgwNzI4XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Ação épica",
+      "Assalto",
+      "Crime verdadeiro",
+      "Drama policial",
+      "Drama psicológico",
+      "Épico",
+      "Gângster",
+      "Ação",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Michael Mann"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0113277/?ref_=chttp_i_102"
+  },
+  {
+    "Posicao": 103,
+    "Titulo": "Scarface",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZGIxMGI0YmItZGJkMi00MmY1LWE4YWYtMmU2OWRhODEwZTg1XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZGIxMGI0YmItZGJkMi00MmY1LWE4YWYtMmU2OWRhODEwZTg1XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Ação do Exército de Uma Pessoa",
+      "Crime de drogas",
+      "Épico",
+      "Gângster",
+      "Tragédia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Brian De Palma"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0086250/?ref_=chttp_i_103"
+  },
+  {
+    "Posicao": 104,
+    "Titulo": "2001: Uma Odisséia no Espaço",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZWExMDRiMGMtM2QzMC00M2QyLTlhMjEtNzU0YzNkMDg0NjVmXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZWExMDRiMGMtM2QzMC00M2QyLTlhMjEtNzU0YzNkMDg0NjVmXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Aventura épica",
+      "Drama psicológico",
+      "Épico",
+      "Épico de ficção científica",
+      "Ficção científica espacial",
+      "Inteligência artificial",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Stanley Kubrick"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0062622/?ref_=chttp_i_104"
+  },
+  {
+    "Posicao": 105,
+    "Titulo": "Cães de Aluguel",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Assalto",
+      "Gângster",
+      "Suspenses psicológicos",
+      "Crime",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Quentin Tarantino"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0105236/?ref_=chttp_i_105"
+  },
+  {
+    "Posicao": 106,
+    "Titulo": "Up: Altas Aventuras",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZmMwNmVjNjYtZGU1ZS00ZGY1LThlOWQtZDc0NDI5ZWNkYzNiXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZmMwNmVjNjYtZGU1ZS00ZGY1LThlOWQtZDc0NDI5ZWNkYzNiXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Amadurecimento",
+      "Animação de computador",
+      "Aventura de viajar pelo mundo",
+      "Buddy Comedy",
+      "Drama psicológico",
+      "Missão",
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1049413/?ref_=chttp_i_106"
+  },
+  {
+    "Posicao": 107,
+    "Titulo": "Pacto de Sangue",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjZkMzZlMWYtMmUzNC00MDUwLWI3NDgtZjkzYzk1NzRlZjViXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjZkMzZlMWYtMmUzNC00MDUwLWI3NDgtZjkzYzk1NzRlZjViXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Detetive obstinado",
+      "Filme Noir",
+      "Crime",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Billy Wilder"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0036775/?ref_=chttp_i_107"
+  },
+  {
+    "Posicao": 108,
+    "Titulo": "Intriga Internacional",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYTVkMWRhOGUtYWRlOC00YjM0LWJhYTMtZmFlYmVjNjhkNjZkXkEyXkFqcGc@._V1_QL75_UY281_CR15,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYTVkMWRhOGUtYWRlOC00YjM0LWJhYTMtZmFlYmVjNjhkNjZkXkEyXkFqcGc@._V1_QL75_UY281_CR15,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Espião",
+      "Aventura",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Alfred Hitchcock"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0053125/?ref_=chttp_i_108"
+  },
+  {
+    "Posicao": 109,
+    "Titulo": "Como Estrelas na Terra",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZTI0ZGRiMDEtNGNjMS00MGU4LWI3OTktNzcxMDZmZTk3MTljXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZTI0ZGRiMDEtNGNjMS00MGU4LWI3OTktNzcxMDZmZTk3MTljXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "hindi",
+      "Amadurecimento",
+      "Drama psicológico",
+      "Drama",
+      "Família"
+    ],
+    "Diretores": [
+      "Aamir Khan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0986264/?ref_=chttp_i_109"
+  },
+  {
+    "Posicao": 110,
+    "Titulo": "Nascido para Matar",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMzk3OWExZmUtM2VjNS00ZTA1LTk4ODgtYWM4ZmQ0NzE4MWU4XkEyXkFqcGc@._V1_QL75_UX190_CR0,13,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMzk3OWExZmUtM2VjNS00ZTA1LTk4ODgtYWM4ZmQ0NzE4MWU4XkEyXkFqcGc@._V1_QL75_UX190_CR0,13,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama de época",
+      "Drama psicológico",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Stanley Kubrick"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0093058/?ref_=chttp_i_110"
+  },
+  {
+    "Posicao": 111,
+    "Titulo": "M, o Vampiro de Dusseldorf",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "alemã",
+      "Assassino em série",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Crime",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Fritz Lang"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0022100/?ref_=chttp_i_111"
+  },
+  {
+    "Posicao": 112,
+    "Titulo": "O Fabuloso Destino de Amélie Poulain",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjc3YjVhMWUtMGE1Zi00ZGRlLWEwMDMtNDM5ZjUwM2M4MWZhXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjc3YjVhMWUtMGE1Zi00ZGRlLWEwMDMtNDM5ZjUwM2M4MWZhXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "francês",
+      "Comédia peculiar",
+      "Comédia romântica",
+      "Romance alegre",
+      "Comédia",
+      "Romance"
+    ],
+    "Diretores": [
+      "Jean-Pierre Jeunet"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0211915/?ref_=chttp_i_112"
+  },
+  {
+    "Posicao": 113,
+    "Titulo": "Cidadão Kane",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDZhNzk4YzEtOGEwNy00OGI1LThlZmEtYTE4NGY2MTI0MDAyXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDZhNzk4YzEtOGEwNy00OGI1LThlZmEtYTE4NGY2MTI0MDAyXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama de época",
+      "Drama psicológico",
+      "Épico",
+      "Tragédia",
+      "Drama",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Orson Welles"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0033467/?ref_=chttp_i_113"
+  },
+  {
+    "Posicao": 114,
+    "Titulo": "Um Corpo que Cai",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzJmZDhjNGYtZDRkMy00ZDkzLTliZWQtOWY2MjI1YjI5NGExXkEyXkFqcGc@._V1_QL75_UY281_CR14,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzJmZDhjNGYtZDRkMy00ZDkzLTliZWQtOWY2MjI1YjI5NGExXkEyXkFqcGc@._V1_QL75_UY281_CR14,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Romance sombrio",
+      "Romance trágico",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Thriller de conspiração",
+      "Tragédia",
+      "Mistério",
+      "Romance",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Alfred Hitchcock"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0052357/?ref_=chttp_i_114"
+  },
+  {
+    "Posicao": 115,
+    "Titulo": "A Separação",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "persa",
+      "Drama jurídico",
+      "Drama psicológico",
+      "Drama"
+    ],
+    "Diretores": [
+      "Asghar Farhadi"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1832382/?ref_=chttp_i_115"
+  },
+  {
+    "Posicao": 116,
+    "Titulo": "Duro de Matar",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzliYWVmYjEtYWYyMi00MDBlLTk5MjMtYTQ1OWQ2MzVmMzRiXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzliYWVmYjEtYWYyMi00MDBlLTk5MjMtYTQ1OWQ2MzVmMzRiXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Ação do Exército de Uma Pessoa",
+      "Comédia de humor negro",
+      "Desastre",
+      "Ação",
+      "Férias",
+      "Suspense"
+    ],
+    "Diretores": [
+      "John McTiernan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0095016/?ref_=chttp_i_116"
+  },
+  {
+    "Posicao": 117,
+    "Titulo": "O Sol é para Todos",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMGM0MWQ5YjUtYzJlMS00ZDBhLWIyOTUtZThmNWFlZTA2YjE1XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMGM0MWQ5YjUtYzJlMS00ZDBhLWIyOTUtZThmNWFlZTA2YjE1XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama de época",
+      "Drama jurídico",
+      "Drama psicológico",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Robert Mulligan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0056592/?ref_=chttp_i_117"
+  },
+  {
+    "Posicao": 118,
+    "Titulo": "Indiana Jones e a Última Cruzada",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjI5MjAxMDEtNzdlMC00YmUxLWJkYWMtNjkxMTNlZGE2OWYzXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjI5MjAxMDEtNzdlMC00YmUxLWJkYWMtNjkxMTNlZGE2OWYzXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Ação épica",
+      "Aventura de viajar pelo mundo",
+      "Aventura épica",
+      "Aventura no deserto",
+      "Missão",
+      "Ação",
+      "Aventura"
+    ],
+    "Diretores": [
+      "Steven Spielberg"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0097576/?ref_=chttp_i_118"
+  },
+  {
+    "Posicao": 119,
+    "Titulo": "Golpe de Mestre",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_QL75_UX190_CR0,5,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_QL75_UX190_CR0,5,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Filme de assalto",
+      "Comédia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "George Roy Hill"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0070735/?ref_=chttp_i_119"
+  },
+  {
+    "Posicao": 120,
+    "Titulo": "Laranja Mecânica",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNGExMTY5YTAtNWRiOS00ZmVhLTliMjktMWExOTI0NjQ3NWYxXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNGExMTY5YTAtNWRiOS00ZmVhLTliMjktMWExOTI0NjQ3NWYxXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Comédia de humor negro",
+      "Ficção científica distópica",
+      "Crime",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Stanley Kubrick"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0066921/?ref_=chttp_i_120"
+  },
+  {
+    "Posicao": 121,
+    "Titulo": "Metrópolis",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "alemã",
+      "Épico",
+      "Épico de ficção científica",
+      "Inteligência artificial",
+      "Steampunk",
+      "Drama",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Fritz Lang"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0017136/?ref_=chttp_i_121"
+  },
+  {
+    "Posicao": 122,
+    "Titulo": "1917",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjQ4ZTZiZmUtNThiOC00ZTM0LWJkZGYtYmI0ODEyNzJlMDJmXkEyXkFqcGc@._V1_QL75_UX190_CR0,10,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjQ4ZTZiZmUtNThiOC00ZTM0LWJkZGYtYmI0ODEyNzJlMDJmXkEyXkFqcGc@._V1_QL75_UX190_CR0,10,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama de época",
+      "Épico",
+      "Épico de guerra",
+      "Ação",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Sam Mendes"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt8579674/?ref_=chttp_i_122"
+  },
+  {
+    "Posicao": 123,
+    "Titulo": "Snatch - Porcos e Diamantes",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjM2ODJlMzItY2IzYS00MDUxLWE4YjQtYWU4MGM3MmI4OGIyXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjM2ODJlMzItY2IzYS00MDUxLWE4YjQtYWU4MGM3MmI4OGIyXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Comédia de humor negro",
+      "Filme de assalto",
+      "Gângster",
+      "Comédia",
+      "Crime"
+    ],
+    "Diretores": [
+      "Guy Ritchie"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0208092/?ref_=chttp_i_123"
+  },
+  {
+    "Posicao": 124,
+    "Titulo": "O Lobo de Wall Street",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDhjNDY2OGItNjhmMy00NDk4LWI4YTItM2Q2ZGNjYWIwOGE0XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDhjNDY2OGItNjhmMy00NDk4LWI4YTItM2Q2ZGNjYWIwOGE0XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Comédia atrevida",
+      "Comédia de humor negro",
+      "Crime verdadeiro",
+      "Docudrama",
+      "Drama financeiro",
+      "Drama no trabalho",
+      "Épico",
+      "Sátira",
+      "Biografia",
+      "Comédia"
+    ],
+    "Diretores": [
+      "Martin Scorsese"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0993846/?ref_=chttp_i_124"
+  },
+  {
+    "Posicao": 125,
+    "Titulo": "Los Angeles: Cidade Proibida",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYjc3ZWM4ODgtYzlkYi00YTY3LTgyNTYtMGY0ZGNjN2ZjMjE2XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYjc3ZWM4ODgtYzlkYi00YTY3LTgyNTYtMGY0ZGNjN2ZjMjE2XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Detetive obstinado",
+      "Drama de época",
+      "Drama policial",
+      "Investigação policial",
+      "Quem não sabe",
+      "Suspense – Mistério",
+      "Thriller de conspiração",
+      "Crime",
+      "Drama",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Curtis Hanson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0119488/?ref_=chttp_i_125"
+  },
+  {
+    "Posicao": 126,
+    "Titulo": "A Queda! As Últimas Horas de Hitler",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzA4YWU5OWUtY2VhNS00NTg2LThiNzEtZTJmMWVmNDBjOTBmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzA4YWU5OWUtY2VhNS00NTg2LThiNzEtZTJmMWVmNDBjOTBmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "alemã",
+      "Docudrama",
+      "Drama de época",
+      "Drama político",
+      "Drama psicológico",
+      "Tragédia",
+      "Biografia",
+      "Drama",
+      "Guerra",
+      "História"
+    ],
+    "Diretores": [
+      "Oliver Hirschbiegel"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0363163/?ref_=chttp_i_126"
+  },
+  {
+    "Posicao": 127,
+    "Titulo": "O Show de Truman: O Show da Vida",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzc2YjA3YzAtYWE0OS00Njk4LWJkOGQtNmQ0ZGRhYzBjMTIzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzc2YjA3YzAtYWE0OS00Njk4LWJkOGQtNmQ0ZGRhYzBjMTIzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Comédia de alto conceito",
+      "Comédia de humor negro",
+      "Drama do mundo do espetáculo",
+      "Drama psicológico",
+      "Sátira",
+      "Comédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Peter Weir"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0120382/?ref_=chttp_i_127"
+  },
+  {
+    "Posicao": 128,
+    "Titulo": "Dangal",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "hindi",
+      "Amadurecimento",
+      "Artes marciais",
+      "Ação",
+      "Biografia",
+      "Drama",
+      "Esporte"
+    ],
+    "Diretores": [
+      "Nitesh Tiwari"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt5074352/?ref_=chttp_i_128"
+  },
+  {
+    "Posicao": 129,
+    "Titulo": "Ladrões de Bicicletas",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "italiano",
+      "Drama financeiro",
+      "Drama psicológico",
+      "Missão",
+      "Tragédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Vittorio De Sica"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0040522/?ref_=chttp_i_129"
+  },
+  {
+    "Posicao": 130,
+    "Titulo": "Green Book: O Guia",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BM2Y0MWNiZjktNjkxZi00NGM1LWFmMGItYjg2ZjY0NDQ1MzA1XkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BM2Y0MWNiZjktNjkxZi00NGM1LWFmMGItYjg2ZjY0NDQ1MzA1XkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Docudrama",
+      "Drama de época",
+      "Viagem de carro",
+      "Biografia",
+      "Comédia",
+      "Drama",
+      "Férias",
+      "Música"
+    ],
+    "Diretores": [
+      "Peter Farrelly"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt6966692/?ref_=chttp_i_130"
+  },
+  {
+    "Posicao": 131,
+    "Titulo": "Ilha do Medo",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDE4NDk1ODItMWVkNi00YTA0LWIzNDEtYzdjYjA2MGE3MzllXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDE4NDk1ODItMWVkNi00YTA0LWIzNDEtYzdjYjA2MGE3MzllXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Martin Scorsese"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1130884/?ref_=chttp_i_131"
+  },
+  {
+    "Posicao": 132,
+    "Titulo": "Oppenheimer",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOGRmMDc3ZWYtNTJlYS00ZDdhLWI4OTgtNDIxNWI5YTMxNzdkXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOGRmMDc3ZWYtNTJlYS00ZDdhLWI4OTgtNDIxNWI5YTMxNzdkXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Docudrama",
+      "Drama de época",
+      "Drama psicológico",
+      "Épico",
+      "Épico histórico",
+      "Biografia",
+      "Drama",
+      "História"
+    ],
+    "Diretores": [
+      "Christopher Nolan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt15398776/?ref_=chttp_i_132"
+  },
+  {
+    "Posicao": 133,
+    "Titulo": "Julgamento em Nuremberg",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Drama jurídico",
+      "Drama psicológico",
+      "Épico",
+      "Drama",
+      "Guerra",
+      "História"
+    ],
+    "Diretores": [
+      "Stanley Kramer"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0055031/?ref_=chttp_i_133"
+  },
+  {
+    "Posicao": 134,
+    "Titulo": "I Swear",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "Comédia de humor negro",
+      "Docudrama",
+      "Biografia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Kirk Jones"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt31514146/?ref_=chttp_i_134"
+  },
+  {
+    "Posicao": 135,
+    "Titulo": "Batman Begins",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZmI5MjkxOWUtNGNkOS00NDRmLWJlOWUtODhmNGIxODY2ZjIwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZmI5MjkxOWUtNGNkOS00NDRmLWJlOWUtODhmNGIxODY2ZjIwXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Ação épica",
+      "Drama psicológico",
+      "Épico",
+      "Super-herói",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Ação",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Christopher Nolan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0372784/?ref_=chttp_i_135"
+  },
+  {
+    "Posicao": 136,
+    "Titulo": "Hamilton",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYTc3MWIyMzAtMTZmNC00YmNjLWIyZTgtMmU4NjZkYzZkOThkXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYTc3MWIyMzAtMTZmNC00YmNjLWIyZTgtMmU4NjZkYzZkOThkXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "Épico",
+      "Épico histórico",
+      "Biografia",
+      "Drama",
+      "História",
+      "Musical"
+    ],
+    "Diretores": [
+      "Thomas Kail"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt8503618/?ref_=chttp_i_136"
+  },
+  {
+    "Posicao": 137,
+    "Titulo": "Por Uns Dólares a Mais",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BY2QyNjQ1ZGQtNWY1YS00OGE5LWEwYzEtMjgzNDE3ODA3YjljXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BY2QyNjQ1ZGQtNWY1YS00OGE5LWEwYzEtMjgzNDE3ODA3YjljXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Ação do Exército de Uma Pessoa",
+      "Drama de época",
+      "Faroeste espaguete",
+      "Missão",
+      "Drama",
+      "Ocidente"
+    ],
+    "Diretores": [
+      "Sergio Leone"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0059578/?ref_=chttp_i_137"
+  },
+  {
+    "Posicao": 138,
+    "Titulo": "Jurassic Park: O Parque dos Dinossauros",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDVmNDRiYzQtYWYzNy00ZWM5LTg1ZWYtZWYxOTdhNTI1ODc1XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDVmNDRiYzQtYWYzNy00ZWM5LTg1ZWYtZWYxOTdhNTI1ODc1XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Aventura de dinossauro",
+      "Aventura na selva",
+      "Ação",
+      "Aventura",
+      "Ficção científica",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Steven Spielberg"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0107290/?ref_=chttp_i_138"
+  },
+  {
+    "Posicao": 139,
+    "Titulo": "Taxi Driver",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTI2YjhiZDktNGJhOS00M2M3LWJiMGEtOWQ5ZDc5MjIwODhiXkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTI2YjhiZDktNGJhOS00M2M3LWJiMGEtOWQ5ZDc5MjIwODhiXkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama psicológico",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Martin Scorsese"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0075314/?ref_=chttp_i_139"
+  },
+  {
+    "Posicao": 140,
+    "Titulo": "Quanto Mais Quente Melhor",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_QL75_UX190_CR0,6,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_QL75_UX190_CR0,6,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Buddy Comedy",
+      "Comédia maluca",
+      "Comédia romântica",
+      "Farsa",
+      "Sátira",
+      "Comédia",
+      "Música",
+      "Romance"
+    ],
+    "Diretores": [
+      "Billy Wilder"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0053291/?ref_=chttp_i_140"
+  },
+  {
+    "Posicao": 141,
+    "Titulo": "Sangue Negro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDlhN2ViMzgtZTE3Zi00NDE0LTk3NjctYzE4NGQyMjFlMmIzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDlhN2ViMzgtZTE3Zi00NDE0LTk3NjctYzE4NGQyMjFlMmIzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama de época",
+      "Drama psicológico",
+      "Épico",
+      "Tragédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Paul Thomas Anderson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0469494/?ref_=chttp_i_141"
+  },
+  {
+    "Posicao": 142,
+    "Titulo": "Meu Pai",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODFlMWMtZTE0YS00NjFkLTlmZDctYTMwYTg0ODI1YzIwXkEyXkFqcGc@._V1_QL75_UY281_CR46,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODFlMWMtZTE0YS00NjFkLTlmZDctYTMwYTg0ODI1YzIwXkEyXkFqcGc@._V1_QL75_UY281_CR46,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama psicológico",
+      "Drama",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Florian Zeller"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt10272386/?ref_=chttp_i_142"
+  },
+  {
+    "Posicao": 143,
+    "Titulo": "O Garoto",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Buddy Comedy",
+      "Farsa",
+      "Pastelão",
+      "Comédia",
+      "Drama",
+      "Família"
+    ],
+    "Diretores": [
+      "Charles Chaplin"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0012349/?ref_=chttp_i_143"
+  },
+  {
+    "Posicao": 144,
+    "Titulo": "A Malvada",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama do mundo do espetáculo",
+      "Drama"
+    ],
+    "Diretores": [
+      "Joseph L. Mankiewicz"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0042192/?ref_=chttp_i_144"
+  },
+  {
+    "Posicao": 145,
+    "Titulo": "O Sexto Sentido",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjEzOWVhMGMtYjdmYi00MTk1LWFhNjMtNDYzNjNlOGFmMDQ2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjEzOWVhMGMtYjdmYi00MTk1LWFhNjMtNDYzNjNlOGFmMDQ2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama psicológico",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "M. Night Shyamalan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0167404/?ref_=chttp_i_145"
+  },
+  {
+    "Posicao": 146,
+    "Titulo": "Ran",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "japonesa",
+      "Drama de época",
+      "Épico",
+      "Épico de guerra",
+      "Samurai",
+      "Tragédia",
+      "Ação",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Akira Kurosawa"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0089881/?ref_=chttp_i_146"
+  },
+  {
+    "Posicao": 147,
+    "Titulo": "Cassino",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZmMzYmJmMWYtODc4NC00N2Y1LWI3YWItZGFiZmI3YzhiOGUwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZmMzYmJmMWYtODc4NC00N2Y1LWI3YWItZGFiZmI3YzhiOGUwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Crime verdadeiro",
+      "Docudrama",
+      "Drama de época",
+      "Épico",
+      "Gângster",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Martin Scorsese"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0112641/?ref_=chttp_i_147"
+  },
+  {
+    "Posicao": 148,
+    "Titulo": "Onde os Fracos Não Têm Vez",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMzNhNjgxNjYtMmM5Ni00MzhjLTk2YmEtYWQ4OWNjMTdkMTAyXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMzNhNjgxNjYtMmM5Ni00MzhjLTk2YmEtYWQ4OWNjMTdkMTAyXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Assassino em série",
+      "Faroeste contemporâneo",
+      "Suspenses psicológicos",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0477348/?ref_=chttp_i_148"
+  },
+  {
+    "Posicao": 149,
+    "Titulo": "O Enigma de Outro Mundo",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDY5NTQ3MDgtNTg5YS00Y2JmLTkwMjYtYzVhZDc4MmUwMzY3XkEyXkFqcGc@._V1_QL75_UY281_CR15,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDY5NTQ3MDgtNTg5YS00Y2JmLTkwMjYtYzVhZDc4MmUwMzY3XkEyXkFqcGc@._V1_QL75_UY281_CR15,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Horror corporal",
+      "Invasão alienígena",
+      "Splatter Horror",
+      "Suspense – Mistério",
+      "Terror monstruoso",
+      "Terror psicológico",
+      "Terror sobrenatural",
+      "Tragédia",
+      "Ficção científica",
+      "Horror"
+    ],
+    "Diretores": [
+      "John Carpenter"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0084787/?ref_=chttp_i_149"
+  },
+  {
+    "Posicao": 150,
+    "Titulo": "Os Suspeitos",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNGFiY2VmNzMtNTRlOC00ZTQ1LTk4YmUtM2E1NDBkYmFkMjhkXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNGFiY2VmNzMtNTRlOC00ZTQ1LTk4YmUtM2E1NDBkYmFkMjhkXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama psicológico",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Crime",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Denis Villeneuve"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1392214/?ref_=chttp_i_150"
+  },
+  {
+    "Posicao": 151,
+    "Titulo": "Top Gun: Maverick",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOWQ1MDlmNTktNzk3My00MmUwLWJkM2QtYjg0Y2IyYTI2OWI3XkEyXkFqcGc@._V1_QL75_UY281_CR10,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOWQ1MDlmNTktNzk3My00MmUwLWJkM2QtYjg0Y2IyYTI2OWI3XkEyXkFqcGc@._V1_QL75_UY281_CR10,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Épico",
+      "Ação",
+      "Drama"
+    ],
+    "Diretores": [
+      "Joseph Kosinski"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1745960/?ref_=chttp_i_151"
+  },
+  {
+    "Posicao": 152,
+    "Titulo": "Kill Bill: Volume 1",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYTVmODIyZGYtMWUzOS00YWNhLTlhMGYtM2ExZjRmNDIxMDAwXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYTVmODIyZGYtMWUzOS00YWNhLTlhMGYtM2ExZjRmNDIxMDAwXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Ação do Exército de Uma Pessoa",
+      "Artes marciais",
+      "Kung Fu",
+      "Ação",
+      "Crime",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Quentin Tarantino"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0266697/?ref_=chttp_i_152"
+  },
+  {
+    "Posicao": 153,
+    "Titulo": "O Labirinto do Fauno",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjFjYWY1ZWMtNjRkZS00NDY4LTk5MTUtMTAxNDM2NjEyMjgxXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjFjYWY1ZWMtNjRkZS00NDY4LTk5MTUtMTAxNDM2NjEyMjgxXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "espanhol",
+      "Amadurecimento",
+      "Contos de fadas",
+      "Drama de época",
+      "Fantasia adolescente",
+      "Fantasia sobrenatural",
+      "Fantasia sombria",
+      "Tragédia",
+      "Drama",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Guillermo del Toro"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0457430/?ref_=chttp_i_153"
+  },
+  {
+    "Posicao": 154,
+    "Titulo": "Os Imperdoáveis",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMGIwMDI2Y2ItMzllYS00NjNjLTg0NjEtM2I1ODdhMzllZGIyXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMGIwMDI2Y2ItMzllYS00NjNjLTg0NjEtM2I1ODdhMzllZGIyXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama de época",
+      "Drama psicológico",
+      "Épico de faroeste",
+      "Tragédia",
+      "Western clássico",
+      "Drama",
+      "Ocidente"
+    ],
+    "Diretores": [
+      "Clint Eastwood"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0105695/?ref_=chttp_i_154"
+  },
+  {
+    "Posicao": 155,
+    "Titulo": "Uma Mente Brilhante",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYjgzNjFkMmItOGJhNi00NWM3LWJlYTUtNDExMGQ3ZTI3NjJkXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYjgzNjFkMmItOGJhNi00NWM3LWJlYTUtNDExMGQ3ZTI3NjJkXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Docudrama",
+      "Drama de época",
+      "Drama psicológico",
+      "Biografia",
+      "Drama",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Ron Howard"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0268978/?ref_=chttp_i_155"
+  },
+  {
+    "Posicao": 156,
+    "Titulo": "Attack on Titan: O Último Ataque",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYWZiYTQ3NTMtOTBjZC00MGUzLTljOTktOGYyZDgyYTA5ODhiXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYWZiYTQ3NTMtOTBjZC00MGUzLTljOTktOGYyZDgyYTA5ODhiXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "9,1",
+    "Generos": [
+      "japonesa",
+      "Ação épica",
+      "Animação desenhada à mão",
+      "Animação para adultos",
+      "Anime",
+      "Aventura épica",
+      "Horror corporal",
+      "Shonen",
+      "Ação",
+      "Animação"
+    ],
+    "Diretores": [
+      "Yûichirô Hayashi"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt33175825/?ref_=chttp_i_156"
+  },
+  {
+    "Posicao": 157,
+    "Titulo": "O Castelo Animado",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYjFmOTNkZDYtMzA2OC00MmVlLTgwM2EtMDcyNjUyOWVkMzY5XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYjFmOTNkZDYtMzA2OC00MmVlLTgwM2EtMDcyNjUyOWVkMzY5XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "japonesa",
+      "Animação desenhada à mão",
+      "Anime",
+      "Aventura épica",
+      "Épico",
+      "Fantasia sobrenatural",
+      "Animação",
+      "Aventura",
+      "Família",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Hayao Miyazaki"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0347149/?ref_=chttp_i_157"
+  },
+  {
+    "Posicao": 158,
+    "Titulo": "O Tesouro da Sierra Madre",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Tragédia",
+      "Aventura",
+      "Drama",
+      "Ocidente"
+    ],
+    "Diretores": [
+      "John Huston"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0040897/?ref_=chttp_i_158"
+  },
+  {
+    "Posicao": 159,
+    "Titulo": "Procurando Nemo",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzYzYjYwNzUtNDI4Yi00NWUzLTg0ZDctZWZlZTY0MTAyNWVlXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzYzYjYwNzUtNDI4Yi00NWUzLTg0ZDctZWZlZTY0MTAyNWVlXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Animação de computador",
+      "Aventura animal",
+      "Aventura marítima",
+      "Buddy Comedy",
+      "Missão",
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Família"
+    ],
+    "Diretores": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0266543/?ref_=chttp_i_159"
+  },
+  {
+    "Posicao": 160,
+    "Titulo": "Klaus",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Animação de férias",
+      "Animação desenhada à mão",
+      "Comédia natalina",
+      "Família de férias",
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Família",
+      "Fantasia",
+      "Férias"
+    ],
+    "Diretores": [
+      "Carlos Martínez López",
+      "Sergio Pablos"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt4729430/?ref_=chttp_i_160"
+  },
+  {
+    "Posicao": 161,
+    "Titulo": "Yojimbo, o Guarda-Costas",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "japonesa",
+      "Ação do Exército de Uma Pessoa",
+      "Drama de época",
+      "Samurai",
+      "Suspenses psicológicos",
+      "Ação",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Akira Kurosawa"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0055630/?ref_=chttp_i_161"
+  },
+  {
+    "Posicao": 162,
+    "Titulo": "Fugindo do Inferno",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama de época",
+      "Drama prisional",
+      "Épico",
+      "Épico de guerra",
+      "Aventura",
+      "Drama",
+      "Guerra",
+      "Suspense"
+    ],
+    "Diretores": [
+      "John Sturges"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0057115/?ref_=chttp_i_162"
+  },
+  {
+    "Posicao": 163,
+    "Titulo": "O Homem Elefante",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BM2E4ZGQ1YTktMDhmYy00MWI4LWJkYzAtYjI2YWU3MWExNDMxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BM2E4ZGQ1YTktMDhmYy00MWI4LWJkYzAtYjI2YWU3MWExNDMxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Docudrama",
+      "Drama de época",
+      "Drama psicológico",
+      "Tragédia",
+      "Biografia",
+      "Drama"
+    ],
+    "Diretores": [
+      "David Lynch"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0080678/?ref_=chttp_i_163"
+  },
+  {
+    "Posicao": 164,
+    "Titulo": "Monty Python em Busca do Cálice Sagrado",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZGIxMjIwOTktN2U5Mi00ZGNjLWJhMjMtZWRkNDQyZjVmMmVjXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZGIxMjIwOTktN2U5Mi00ZGNjLWJhMjMtZWRkNDQyZjVmMmVjXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Comédia de esquetes",
+      "Espada e feitiçaria",
+      "Farsa",
+      "Missão",
+      "Paródia",
+      "Pastelão",
+      "Sátira",
+      "Aventura",
+      "Comédia",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Terry Gilliam",
+      "Terry Jones"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0071853/?ref_=chttp_i_164"
+  },
+  {
+    "Posicao": 165,
+    "Titulo": "Disque M para Matar",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BM2U4ZWMzOTMtZTJlMi00MWY4LTlmN2UtZWUwNGIzMTQ3MmI2XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BM2U4ZWMzOTMtZTJlMi00MWY4LTlmN2UtZWUwNGIzMTQ3MmI2XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Crime",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Alfred Hitchcock"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0046912/?ref_=chttp_i_165"
+  },
+  {
+    "Posicao": 166,
+    "Titulo": "Demon Slayer: Kimetsu no Yaiba Castelo Infinito",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMzM3Yzk0OTMtMWQzOC00NjM2LThlOGYtN2IyNTY4NjlmYTI0XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMzM3Yzk0OTMtMWQzOC00NjM2LThlOGYtN2IyNTY4NjlmYTI0XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "japonesa",
+      "Animação desenhada à mão",
+      "Animação para adultos",
+      "Anime",
+      "Espada e feitiçaria",
+      "Fantasia sobrenatural",
+      "Fantasia sombria",
+      "Shonen",
+      "Ação",
+      "Animação"
+    ],
+    "Diretores": [
+      "Hikaru Kondô",
+      "Haruo Sotozaki"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt32820897/?ref_=chttp_i_166"
+  },
+  {
+    "Posicao": 167,
+    "Titulo": "O Melhor da Juventude",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDFjNjVkZTAtYzJiOS00OTFmLWEzNDYtNGVmY2Y5YjgxOTMxXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDFjNjVkZTAtYzJiOS00OTFmLWEzNDYtNGVmY2Y5YjgxOTMxXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "italiano",
+      "Épico",
+      "Drama",
+      "Romance"
+    ],
+    "Diretores": [
+      "Marco Tullio Giordana"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0346336/?ref_=chttp_i_167"
+  },
+  {
+    "Posicao": 168,
+    "Titulo": "O Segredo dos Seus Olhos",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMGYxMmU4ODEtODEwYS00ZmM1LWI4MGItNGE0NTI4Y2RiNjUzXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMGYxMmU4ODEtODEwYS00ZmM1LWI4MGItNGE0NTI4Y2RiNjUzXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "espanhol",
+      "Drama de época",
+      "Drama psicológico",
+      "Quem não sabe",
+      "Romance sombrio",
+      "Suspense – Mistério",
+      "Suspense jurídico",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Juan José Campanella"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1305806/?ref_=chttp_i_168"
+  },
+  {
+    "Posicao": 169,
+    "Titulo": "...E o Vento Levou",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYjgxMzg2YzMtYmE3ZC00MjRmLWI4MzYtYjk0ZmY1ZjQ5NTEzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYjgxMzg2YzMtYmE3ZC00MjRmLWI4MzYtYjk0ZmY1ZjQ5NTEzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Drama de época",
+      "Drama histórico",
+      "Drama psicológico",
+      "Épico",
+      "Épico de guerra",
+      "Épico romântico",
+      "Romance trágico",
+      "Drama",
+      "Guerra",
+      "Romance"
+    ],
+    "Diretores": [
+      "Victor Fleming"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0031381/?ref_=chttp_i_169"
+  },
+  {
+    "Posicao": 170,
+    "Titulo": "Jogos, Trapaças e Dois Canos Fumegantes",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Assalto",
+      "Comédia de humor negro",
+      "Farsa",
+      "Gângster",
+      "Comédia",
+      "Crime"
+    ],
+    "Diretores": [
+      "Guy Ritchie"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0120735/?ref_=chttp_i_170"
+  },
+  {
+    "Posicao": 171,
+    "Titulo": "Chinatown",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Detetive obstinado",
+      "Drama de época",
+      "Drama psicológico",
+      "Suspenses psicológicos",
+      "Thriller de conspiração",
+      "Tragédia",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Roman Polanski"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0071315/?ref_=chttp_i_171"
+  },
+  {
+    "Posicao": 172,
+    "Titulo": "V de Vingança",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Ação épica",
+      "Drama político",
+      "Épico",
+      "Épico de ficção científica",
+      "Ficção científica distópica",
+      "Super-herói",
+      "Suspenses psicológicos",
+      "Thriller político",
+      "Ação",
+      "Drama"
+    ],
+    "Diretores": [
+      "James McTeigue"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0434409/?ref_=chttp_i_172"
+  },
+  {
+    "Posicao": 173,
+    "Titulo": "Prenda-Me Se for Capaz",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOWQ0YjU2ZWItYTk5Yy00ZWFjLWI4Y2UtMGQ4ZDM2YWU0YTg1XkEyXkFqcGc@._V1_QL75_UY281_CR13,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOWQ0YjU2ZWItYTk5Yy00ZWFjLWI4Y2UtMGQ4ZDM2YWU0YTg1XkEyXkFqcGc@._V1_QL75_UY281_CR13,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Amadurecimento",
+      "Aventura de viajar pelo mundo",
+      "Crime verdadeiro",
+      "Docudrama",
+      "Drama de época",
+      "Filme de assalto",
+      "Biografia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Steven Spielberg"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0264464/?ref_=chttp_i_173"
+  },
+  {
+    "Posicao": 174,
+    "Titulo": "Divertida Mente",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNWI3ZTNlN2QtY2YxZS00YjIwLTgyN2UtNWI5MzU0NzU4MWRkXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNWI3ZTNlN2QtY2YxZS00YjIwLTgyN2UtNWI5MzU0NzU4MWRkXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Amadurecimento",
+      "Animação de computador",
+      "Comédia de alto conceito",
+      "Drama psicológico",
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Drama",
+      "Família",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Ronnie Del Carmen",
+      "Pete Docter"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt2096673/?ref_=chttp_i_174"
+  },
+  {
+    "Posicao": 175,
+    "Titulo": "Rashomon",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "japonesa",
+      "Drama de época",
+      "Crime",
+      "Drama",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Akira Kurosawa"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0042876/?ref_=chttp_i_175"
+  },
+  {
+    "Posicao": 176,
+    "Titulo": "Três Anúncios para um Crime",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjgzZjM2ZTAtODVkMC00MTA5LWEwNmYtZGU3YmJhODdiNzliXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjgzZjM2ZTAtODVkMC00MTA5LWEwNmYtZGU3YmJhODdiNzliXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama psicológico",
+      "Sátira",
+      "Comédia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Martin McDonagh"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt5027774/?ref_=chttp_i_176"
+  },
+  {
+    "Posicao": 177,
+    "Titulo": "Trainspotting: Sem Limites",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYmE3NWI3YWItN2ZkNy00YWU3LWFhODgtZjI1NGRhYjhlNDBmXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYmE3NWI3YWItN2ZkNy00YWU3LWFhODgtZjI1NGRhYjhlNDBmXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Comédia de humor negro",
+      "Crime de drogas",
+      "Drama psicológico",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Danny Boyle"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0117951/?ref_=chttp_i_177"
+  },
+  {
+    "Posicao": 178,
+    "Titulo": "A Ponte do Rio Kwai",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,6,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,6,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Aventura na selva",
+      "Épico de guerra",
+      "Aventura",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "David Lean"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0050212/?ref_=chttp_i_178"
+  },
+  {
+    "Posicao": 179,
+    "Titulo": "Sociedade dos Poetas Mortos",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOGI1ODFjZGItYjM4Ni00ODMwLTgyM2QtOGM2MGZhZGZiOGIzXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOGI1ODFjZGItYjM4Ni00ODMwLTgyM2QtOGM2MGZhZGZiOGIzXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Amadurecimento",
+      "Drama adolescente",
+      "Drama psicológico",
+      "Comédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Peter Weir"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0097165/?ref_=chttp_i_179"
+  },
+  {
+    "Posicao": 180,
+    "Titulo": "Harry Potter e as Relíquias da Morte: Parte 2",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZmVjYjM2OGUtZmFmOS00YWYxLThhZWItMDJhZWEzNzU3OTU5XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZmVjYjM2OGUtZmFmOS00YWYxLThhZWItMDJhZWEzNzU3OTU5XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Ação épica",
+      "Amadurecimento",
+      "Aventura adolescente",
+      "Aventura épica",
+      "Espada e feitiçaria",
+      "Fantasia adolescente",
+      "Fantasia épica",
+      "Fantasia sombria",
+      "Aventura",
+      "Família"
+    ],
+    "Diretores": [
+      "David Yates"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1201607/?ref_=chttp_i_180"
+  },
+  {
+    "Posicao": 181,
+    "Titulo": "Robô Selvagem",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNmM4MWFjOGYtM2I0MS00YTNhLWFmOTgtZDBhNzY4M2M2N2Q3XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNmM4MWFjOGYtM2I0MS00YTNhLWFmOTgtZDBhNzY4M2M2N2Q3XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "Animação de computador",
+      "Aventura animal",
+      "Drama psicológico",
+      "Inteligência artificial",
+      "sobrevivência",
+      "Animação",
+      "Aventura",
+      "Família",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Chris Sanders"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt29623480/?ref_=chttp_i_181"
+  },
+  {
+    "Posicao": 182,
+    "Titulo": "Barry Lyndon",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzBiN2UyMzQtODA3Ny00NjI1LWFmYTktZTdlNjZhNTgwNDViXkEyXkFqcGc@._V1_QL75_UY281_CR8,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzBiN2UyMzQtODA3Ny00NjI1LWFmYTktZTdlNjZhNTgwNDViXkEyXkFqcGc@._V1_QL75_UY281_CR8,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Aventura de viajar pelo mundo",
+      "Aventura épica",
+      "Comédia de humor negro",
+      "Drama de época",
+      "Drama histórico",
+      "Drama psicológico",
+      "Épico",
+      "Tragédia",
+      "Aventura",
+      "Drama"
+    ],
+    "Diretores": [
+      "Stanley Kubrick"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0072684/?ref_=chttp_i_182"
+  },
+  {
+    "Posicao": 183,
+    "Titulo": "Guerreiro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzcyYmFjODMtYTkzMC00M2JmLTk5ZGQtZWQyNGQ4MWZjZDczXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzcyYmFjODMtYTkzMC00M2JmLTk5ZGQtZWQyNGQ4MWZjZDczXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Boxe",
+      "Ação",
+      "Drama",
+      "Esporte"
+    ],
+    "Diretores": [
+      "Gavin O'Connor"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1291584/?ref_=chttp_i_183"
+  },
+  {
+    "Posicao": 184,
+    "Titulo": "Ben-Hur",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Aventura épica",
+      "Drama de época",
+      "Drama histórico",
+      "Épico",
+      "Espada e sandália",
+      "Aventura",
+      "Drama"
+    ],
+    "Diretores": [
+      "William Wyler"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0052618/?ref_=chttp_i_184"
+  },
+  {
+    "Posicao": 185,
+    "Titulo": "Fargo: Uma Comédia de Erros",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjdiN2MyNDctZDVhMi00NTllLWE3ZjEtZDkxNjk5ZjMwZTQ2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjdiN2MyNDctZDVhMi00NTllLWE3ZjEtZDkxNjk5ZjMwZTQ2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama policial",
+      "Investigação policial",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0116282/?ref_=chttp_i_185"
+  },
+  {
+    "Posicao": 186,
+    "Titulo": "Menina de Ouro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMmViZWNlOTItMjc3ZS00ZWRiLTkwYWUtOTUxZTk2Zjc2Y2Q3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMmViZWNlOTItMjc3ZS00ZWRiLTkwYWUtOTUxZTk2Zjc2Y2Q3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Boxe",
+      "Drama psicológico",
+      "Tragédia",
+      "Drama",
+      "Esporte"
+    ],
+    "Diretores": [
+      "Clint Eastwood"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0405159/?ref_=chttp_i_186"
+  },
+  {
+    "Posicao": 187,
+    "Titulo": "Mad Max: Estrada da Fúria",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZDJkNzQ2ZGMtZmI5YS00NzUxLThmNGEtZmE2OWY0MzE1NGM3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZDJkNzQ2ZGMtZmI5YS00NzUxLThmNGEtZmE2OWY0MzE1NGM3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Ação do carro",
+      "Ação do Exército de Uma Pessoa",
+      "Ação épica",
+      "Aventura épica",
+      "Aventura no deserto",
+      "Épico",
+      "Ficção científica distópica",
+      "Missão",
+      "Viagem de carro",
+      "Ação"
+    ],
+    "Diretores": [
+      "George Miller"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1392190/?ref_=chttp_i_187"
+  },
+  {
+    "Posicao": 188,
+    "Titulo": "Touro Indomável",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzViYWFkYzgtZmVhMy00MTMyLWJmYmEtZWIyNDA3MDlkZjQyXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzViYWFkYzgtZmVhMy00MTMyLWJmYmEtZWIyNDA3MDlkZjQyXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Boxe",
+      "Docudrama",
+      "Drama de época",
+      "Drama psicológico",
+      "Biografia",
+      "Drama",
+      "Esporte"
+    ],
+    "Diretores": [
+      "Martin Scorsese"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0081398/?ref_=chttp_i_188"
+  },
+  {
+    "Posicao": 189,
+    "Titulo": "Até o Último Homem",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZGZmM2UyMmUtYzNlMi00ZGVjLThhYWUtYjdhNmFlOTM4NDUyXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZGZmM2UyMmUtYzNlMi00ZGVjLThhYWUtYjdhNmFlOTM4NDUyXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Docudrama",
+      "Drama de época",
+      "Drama psicológico",
+      "Épico",
+      "Épico de guerra",
+      "Biografia",
+      "Drama",
+      "Guerra",
+      "História"
+    ],
+    "Diretores": [
+      "Mel Gibson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt2119532/?ref_=chttp_i_189"
+  },
+  {
+    "Posicao": 190,
+    "Titulo": "Filhos do Paraíso",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZTc5MTRjN2MtMDQwMS00MzNlLWJhYTgtYjQ3YTJjNDNhN2Q2XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZTc5MTRjN2MtMDQwMS00MzNlLWJhYTgtYjQ3YTJjNDNhN2Q2XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "persa",
+      "Drama",
+      "Esporte",
+      "Família"
+    ],
+    "Diretores": [
+      "Majid Majidi"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0118849/?ref_=chttp_i_190"
+  },
+  {
+    "Posicao": 191,
+    "Titulo": "Meu Amigo Totoro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOWRhYzU2MWQtNGMxZC00YmE3LThiZjUtZjA3MGQzY2ZmMWY2XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOWRhYzU2MWQtNGMxZC00YmE3LThiZjUtZjA3MGQzY2ZmMWY2XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "japonesa",
+      "Animação desenhada à mão",
+      "Anime",
+      "Contos de fadas",
+      "Fantasia sobrenatural",
+      "Iyashikei",
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Família"
+    ],
+    "Diretores": [
+      "Hayao Miyazaki"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0096283/?ref_=chttp_i_191"
+  },
+  {
+    "Posicao": 192,
+    "Titulo": "Gran Torino",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama psicológico",
+      "Drama"
+    ],
+    "Diretores": [
+      "Clint Eastwood"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1205489/?ref_=chttp_i_192"
+  },
+  {
+    "Posicao": 193,
+    "Titulo": "Ratatouille",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDYzMzUzMDEtNDcyYy00MDRiLTkwZDUtNjg5NzAyZDIyNTA5XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDYzMzUzMDEtNDcyYy00MDRiLTkwZDUtNjg5NzAyZDIyNTA5XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Animação de computador",
+      "Aventura animal",
+      "Buddy Comedy",
+      "Comédia peculiar",
+      "Sátira",
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Família",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0382932/?ref_=chttp_i_193"
+  },
+  {
+    "Posicao": 194,
+    "Titulo": "12 Anos de Escravidão",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZmFmMmRiNWUtYTIzOS00MDdkLThlOWItN2QzNjRkNWEyZDIzXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZmFmMmRiNWUtYTIzOS00MDdkLThlOWItN2QzNjRkNWEyZDIzXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Docudrama",
+      "Drama de época",
+      "Drama histórico",
+      "Drama psicológico",
+      "Épico",
+      "Tragédia",
+      "Biografia",
+      "Drama",
+      "História"
+    ],
+    "Diretores": [
+      "Steve McQueen"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt2024544/?ref_=chttp_i_194"
+  },
+  {
+    "Posicao": 195,
+    "Titulo": "O Grande Hotel Budapeste",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOTc4YTY0MjEtM2I3Ni00MDVjLTljZTAtYzdjNDI1YmEwYWE0XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOTc4YTY0MjEtM2I3Ni00MDVjLTljZTAtYzdjNDI1YmEwYWE0XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Comédia peculiar",
+      "Drama de época",
+      "Comédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Wes Anderson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt2278388/?ref_=chttp_i_195"
+  },
+  {
+    "Posicao": 196,
+    "Titulo": "Antes do Amanhecer",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BM2I4MDU2ZTItOTk4My00NmQyLTk1YTQtODRlZmU1MzNlMGNiXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BM2I4MDU2ZTItOTk4My00NmQyLTk1YTQtODRlZmU1MzNlMGNiXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Comédia romântica",
+      "Romance trágico",
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "Diretores": [
+      "Richard Linklater"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0112471/?ref_=chttp_i_196"
+  },
+  {
+    "Posicao": 197,
+    "Titulo": "Memórias de um Assassino",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjcxYjY4MGEtYzFmNy00ODgxLWFjZWMtOGMzODYyOGRjMTY3XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjcxYjY4MGEtYzFmNy00ODgxLWFjZWMtOGMzODYyOGRjMTY3XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "coreana",
+      "Assassino em série",
+      "Comédia de humor negro",
+      "Crime verdadeiro",
+      "Drama psicológico",
+      "Investigação policial",
+      "Suspenses psicológicos",
+      "Crime",
+      "Drama",
+      "Mistério"
+    ],
+    "Diretores": [
+      "Bong Joon Ho"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0353969/?ref_=chttp_i_197"
+  },
+  {
+    "Posicao": 198,
+    "Titulo": "A Turma do Caos: Reprovou Na Classe",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDc0MjEtNmRlNS00MGEyLWJjMmItZmYzNDMwMGVlZDY1XkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDc0MjEtNmRlNS00MGEyLWJjMmItZmYzNDMwMGVlZDY1XkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Nota_IMDb": "8,4",
+    "Generos": [
+      "turca",
+      "Sátira",
+      "Comédia"
+    ],
+    "Diretores": [
+      "Ertem Egilmez"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0252488/?ref_=chttp_i_198"
+  },
+  {
+    "Posicao": 199,
+    "Titulo": "Como Treinar o Seu Dragão",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMWE0YjQyYWEtYmY1NS00YTk4LTgwYzgtZTY3N2YxYmU0YjkzXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMWE0YjQyYWEtYmY1NS00YTk4LTgwYzgtZTY3N2YxYmU0YjkzXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Amadurecimento",
+      "Animação de computador",
+      "Aventura adolescente",
+      "Aventura animal",
+      "Espada e feitiçaria",
+      "Fantasia adolescente",
+      "Ação",
+      "Animação",
+      "Aventura",
+      "Família"
+    ],
+    "Diretores": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0892769/?ref_=chttp_i_199"
+  },
+  {
+    "Posicao": 200,
+    "Titulo": "Blade Runner: O Caçador de Andróides",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMWMwZjZjZjctMjI1ZC00MTRlLWE1MzktMDZjZDI1MjU2OTQxXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMWMwZjZjZjctMjI1ZC00MTRlLWE1MzktMDZjZDI1MjU2OTQxXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Cyberpunk",
+      "Drama psicológico",
+      "Ficção científica distópica",
+      "Inteligência artificial",
+      "Suspenses psicológicos",
+      "Thriller cibernético",
+      "Tragédia",
+      "Ação",
+      "Drama",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Ridley Scott"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0083658/?ref_=chttp_i_200"
+  },
+  {
+    "Posicao": 201,
+    "Titulo": "Garota Exemplar",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOTI4OTVjNjMtYTc4My00M2UyLTlkYTMtMjc0YjE5Njc1MzFiXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOTI4OTVjNjMtYTc4My00M2UyLTlkYTMtMjc0YjE5Njc1MzFiXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Drama psicológico",
+      "Quem não sabe",
+      "Suspense – Mistério",
+      "Suspenses psicológicos",
+      "Thriller erótico",
+      "Tragédia",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "David Fincher"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt2267998/?ref_=chttp_i_201"
+  },
+  {
+    "Posicao": 202,
+    "Titulo": "Homem-Aranha: Sem Volta para Casa",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Aventura urbana",
+      "Épico de ficção científica",
+      "Fantasia épica",
+      "Super-herói",
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "Jon Watts"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt10872600/?ref_=chttp_i_202"
+  },
+  {
+    "Posicao": 203,
+    "Titulo": "Monstros S.A.",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Animação de computador",
+      "Aventura urbana",
+      "Buddy Comedy",
+      "Comédia de humor negro",
+      "Fantasia sobrenatural",
+      "Farsa",
+      "Pastelão",
+      "Sátira",
+      "Animação",
+      "Aventura"
+    ],
+    "Diretores": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0198781/?ref_=chttp_i_203"
+  },
+  {
+    "Posicao": 204,
+    "Titulo": "Tubarão",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjFhN2FlYzYtOWY5Yi00ZDY3LTg5ZTYtZjZjODljMjEyZTlmXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjFhN2FlYzYtOWY5Yi00ZDY3LTg5ZTYtZjZjODljMjEyZTlmXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Aventura marítima",
+      "Desastre",
+      "sobrevivência",
+      "Terror monstruoso",
+      "Aventura",
+      "Drama",
+      "Horror",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Steven Spielberg"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0073195/?ref_=chttp_i_204"
+  },
+  {
+    "Posicao": 205,
+    "Titulo": "Ford vs. Ferrari",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BODQwZmE2M2UtMzU1MS00NDNkLWFhMjAtMjVkZjVkYWRmYjdmXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BODQwZmE2M2UtMzU1MS00NDNkLWFhMjAtMjVkZjVkYWRmYjdmXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Ação do carro",
+      "Docudrama",
+      "Drama de época",
+      "Motorsport",
+      "Ação",
+      "Biografia",
+      "Drama",
+      "Esporte"
+    ],
+    "Diretores": [
+      "James Mangold"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1950186/?ref_=chttp_i_205"
+  },
+  {
+    "Posicao": 206,
+    "Titulo": "Em Nome do Pai",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYmQyMTRhYTAtZGEzMi00YWViLTkyYzAtOTkwOGQ4YjYwOTFkXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYmQyMTRhYTAtZGEzMi00YWViLTkyYzAtOTkwOGQ4YjYwOTFkXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Crime verdadeiro",
+      "Docudrama",
+      "Drama de época",
+      "Drama jurídico",
+      "Drama político",
+      "Drama prisional",
+      "Tragédia",
+      "Biografia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Jim Sheridan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0107207/?ref_=chttp_i_206"
+  },
+  {
+    "Posicao": 207,
+    "Titulo": "Relatos Selvagens",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZmI2Y2RmNTMtYzFjZS00NmNhLTg1NDMtNDZjMWRhYWE1MTNlXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZmI2Y2RmNTMtYzFjZS00NmNhLTg1NDMtNDZjMWRhYWE1MTNlXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "espanhol",
+      "Comédia de humor negro",
+      "Drama psicológico",
+      "Sátira",
+      "Suspenses psicológicos",
+      "Comédia",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Damián Szifron"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt3011894/?ref_=chttp_i_207"
+  },
+  {
+    "Posicao": 208,
+    "Titulo": "Em Busca do Ouro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOTE1MWFkOWQtOWM1NC00ZjA4LTk5NmUtZTFjZDFjMzEwYTQzXkEyXkFqcGc@._V1_QL75_UY281_CR8,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOTE1MWFkOWQtOWM1NC00ZjA4LTk5NmUtZTFjZDFjMzEwYTQzXkEyXkFqcGc@._V1_QL75_UY281_CR8,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Comédia romântica",
+      "Farsa",
+      "Pastelão",
+      "Romance alegre",
+      "Sátira",
+      "Aventura",
+      "Comédia",
+      "Drama",
+      "Ocidente",
+      "Romance"
+    ],
+    "Diretores": [
+      "Charles Chaplin"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0015864/?ref_=chttp_i_208"
+  },
+  {
+    "Posicao": 209,
+    "Titulo": "Bancando o Águia",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_QL75_UX190_CR0,9,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_QL75_UX190_CR0,9,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Comédia romântica",
+      "Detetives trapalhões",
+      "Farsa",
+      "Pastelão",
+      "Romance alegre",
+      "Ação",
+      "Comédia",
+      "Romance"
+    ],
+    "Diretores": [
+      "Buster Keaton"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0015324/?ref_=chttp_i_209"
+  },
+  {
+    "Posicao": 210,
+    "Titulo": "Mary e Max - Uma Amizade Diferente",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzI1NWU1YjYtYWJhYi00NGQ5LTk4MjctYmRjN2FjOWEwNzEzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzI1NWU1YjYtYWJhYi00NGQ5LTk4MjctYmRjN2FjOWEwNzEzXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Amadurecimento",
+      "Animação em stop motion",
+      "Animação para adultos",
+      "Comédia de humor negro",
+      "Drama de época",
+      "Drama psicológico",
+      "Animação",
+      "Comédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Adam Elliot"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0978762/?ref_=chttp_i_210"
+  },
+  {
+    "Posicao": 211,
+    "Titulo": "O Franco Atirador",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzE2MWYwYTMtYmJjNi00MTZmLThjOTQtOGViYTEwNzY0ZmQxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzE2MWYwYTMtYmJjNi00MTZmLThjOTQtOGViYTEwNzY0ZmQxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Drama psicológico",
+      "Épico",
+      "Épico de guerra",
+      "Tragédia",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Michael Cimino"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0077416/?ref_=chttp_i_211"
+  },
+  {
+    "Posicao": 212,
+    "Titulo": "O Salário do Medo",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZTg0ODlkYTUtZjNhMy00ZmVhLTk0YWItYWMzYzYxYzgyYzU5XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZTg0ODlkYTUtZjNhMy00ZmVhLTk0YWItYWMzYzYxYzgyYzU5XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "francês",
+      "Drama psicológico",
+      "sobrevivência",
+      "Aventura",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Henri-Georges Clouzot"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0046268/?ref_=chttp_i_212"
+  },
+  {
+    "Posicao": 213,
+    "Titulo": "A General",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Farsa",
+      "Pastelão",
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Clyde Bruckman",
+      "Buster Keaton"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0017925/?ref_=chttp_i_213"
+  },
+  {
+    "Posicao": 214,
+    "Titulo": "Logan",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjg0OTQxYTMtZDNhZi00ZjQ1LTkwYmItZjEyMDc4NjU4MjY3XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjg0OTQxYTMtZDNhZi00ZjQ1LTkwYmItZjEyMDc4NjU4MjY3XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Drama psicológico",
+      "Faroeste contemporâneo",
+      "Ficção científica distópica",
+      "Missão",
+      "Super-herói",
+      "Suspenses psicológicos",
+      "Tragédia",
+      "Viagem de carro",
+      "Ação",
+      "Drama"
+    ],
+    "Diretores": [
+      "James Mangold"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt3315342/?ref_=chttp_i_214"
+  },
+  {
+    "Posicao": 215,
+    "Titulo": "Rocky, um Lutador",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNzdhZDNjN2ItMDdjMS00Yzk5LWFjZmYtMjM4MjM1Zjg2MzFlXkEyXkFqcGc@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNzdhZDNjN2ItMDdjMS00Yzk5LWFjZmYtMjM4MjM1Zjg2MzFlXkEyXkFqcGc@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Boxe",
+      "Drama",
+      "Esporte"
+    ],
+    "Diretores": [
+      "John G. Avildsen"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0075148/?ref_=chttp_i_215"
+  },
+  {
+    "Posicao": 216,
+    "Titulo": "A Mulher Faz o Homem",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_QL75_UX190_CR0,3,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Drama político",
+      "Comédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Frank Capra"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0031679/?ref_=chttp_i_216"
+  },
+  {
+    "Posicao": 217,
+    "Titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzBkZDIyMWQtNGY5ZS00MjVlLWFjMzItNzkxNWMwNmEwZDk4XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzBkZDIyMWQtNGY5ZS00MjVlLWFjMzItNzkxNWMwNmEwZDk4XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Ação épica",
+      "Aventura épica",
+      "Aventura marítima",
+      "Épico",
+      "Espadachim",
+      "Fantasia épica",
+      "Fantasia sobrenatural",
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Gore Verbinski"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0325980/?ref_=chttp_i_217"
+  },
+  {
+    "Posicao": 218,
+    "Titulo": "Era uma Vez em Tóquio",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNjRkYzJmMWYtNWM1NC00OTEyLTlkZWYtYmJkNzA3YWYxZDM0XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNjRkYzJmMWYtNWM1NC00OTEyLTlkZWYtYmJkNzA3YWYxZDM0XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "japonesa",
+      "Drama psicológico",
+      "Drama"
+    ],
+    "Diretores": [
+      "Yasujirô Ozu"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0046438/?ref_=chttp_i_218"
+  },
+  {
+    "Posicao": 219,
+    "Titulo": "Sindicato de Ladrões",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMGViMjFmNmQtYWUzNS00YmQ3LWE2M2UtOWY3YjA3Njc5M2U5XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMGViMjFmNmQtYWUzNS00YmQ3LWE2M2UtOWY3YjA3Njc5M2U5XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Drama jurídico",
+      "Suspense jurídico",
+      "Tragédia",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Elia Kazan"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0047296/?ref_=chttp_i_219"
+  },
+  {
+    "Posicao": 220,
+    "Titulo": "A Voz do Silêncio",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "japonesa",
+      "Amadurecimento",
+      "Animação desenhada à mão",
+      "Animação para adultos",
+      "Anime",
+      "Drama psicológico",
+      "Shonen",
+      "Um retrato da vida",
+      "Animação",
+      "Drama"
+    ],
+    "Diretores": [
+      "Naoko Yamada"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt5323662/?ref_=chttp_i_220"
+  },
+  {
+    "Posicao": 221,
+    "Titulo": "O Ódio",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "francês",
+      "Drama psicológico",
+      "Gângster",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Mathieu Kassovitz"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0113247/?ref_=chttp_i_221"
+  },
+  {
+    "Posicao": 222,
+    "Titulo": "Spotlight: Segredos Revelados",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYTk1MGY3OTYtNTYwNy00MDUxLTk0Y2ItNjBkODQ4MWY3MGQ5XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYTk1MGY3OTYtNTYwNy00MDUxLTk0Y2ItNjBkODQ4MWY3MGQ5XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Crime verdadeiro",
+      "Docudrama",
+      "Drama de época",
+      "Drama jurídico",
+      "Drama no trabalho",
+      "Drama psicológico",
+      "Biografia",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "Tom McCarthy"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1895587/?ref_=chttp_i_222"
+  },
+  {
+    "Posicao": 223,
+    "Titulo": "Morangos Silvestres",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOTEzNmMyNTEtYTU2NC00MGI5LWEyYTctNGFjM2RjODk5NGMzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOTEzNmMyNTEtYTU2NC00MGI5LWEyYTctNGFjM2RjODk5NGMzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "sueca",
+      "Drama psicológico",
+      "Drama",
+      "Romance"
+    ],
+    "Diretores": [
+      "Ingmar Bergman"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0050986/?ref_=chttp_i_223"
+  },
+  {
+    "Posicao": 224,
+    "Titulo": "O Exterminador do Futuro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzhhM2Y3NzctZmExNy00NjRlLThiYWEtZmEwYjU3MWUwNDM3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzhhM2Y3NzctZmExNy00NjRlLThiYWEtZmEwYjU3MWUwNDM3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Ação do Exército de Uma Pessoa",
+      "Aventura urbana",
+      "Cyberpunk",
+      "Ficção científica distópica",
+      "Inteligência artificial",
+      "Viagem no tempo",
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "Diretores": [
+      "James Cameron"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0088247/?ref_=chttp_i_224"
+  },
+  {
+    "Posicao": 225,
+    "Titulo": "Jai Bhim",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+    "Nota_IMDb": "8,6",
+    "Generos": [
+      "tâmil",
+      "Drama jurídico",
+      "Crime",
+      "Drama"
+    ],
+    "Diretores": [
+      "T.J. Gnanavel"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt15097216/?ref_=chttp_i_225"
+  },
+  {
+    "Posicao": 226,
+    "Titulo": "A Noviça Rebelde",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZTUyZGI0ODAtMThlYi00YmNlLTliNGMtYWE1ZWM3NDc1YTFhXkEyXkFqcGc@._V1_QL75_UY281_CR25,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZTUyZGI0ODAtMThlYi00YmNlLTliNGMtYWE1ZWM3NDc1YTFhXkEyXkFqcGc@._V1_QL75_UY281_CR25,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Drama de época",
+      "Épico",
+      "Musical clássico",
+      "Biografia",
+      "Drama",
+      "Família",
+      "Musical",
+      "Romance"
+    ],
+    "Diretores": [
+      "Robert Wise"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0059742/?ref_=chttp_i_226"
+  },
+  {
+    "Posicao": 227,
+    "Titulo": "O Mistério da Lixeira",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "tâmil",
+      "Ação do Exército de Uma Pessoa",
+      "Ação",
+      "Crime",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "R. Nandhakumar",
+      "Nithilan Saminathan",
+      "T. Suresh"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt26548265/?ref_=chttp_i_227"
+  },
+  {
+    "Posicao": 228,
+    "Titulo": "O 3º Homem",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDhiYmZmZDgtNjkxNi00OGZjLWJjZDctMjgxMjMzZWJhNWU2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDhiYmZmZDgtNjkxNi00OGZjLWJjZDctMjgxMjMzZWJhNWU2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Detetive obstinado",
+      "Espião",
+      "Filme Noir",
+      "Quem não sabe",
+      "Suspenses psicológicos",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Carol Reed"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0041959/?ref_=chttp_i_228"
+  },
+  {
+    "Posicao": 229,
+    "Titulo": "Chainsaw Man - O Filme: Arco da Reze",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "japonesa",
+      "Animação desenhada à mão",
+      "Animação para adultos",
+      "Anime",
+      "Aventura urbana",
+      "Fantasia adolescente",
+      "Fantasia sobrenatural",
+      "Romance adolescente",
+      "Romance sombrio",
+      "Shonen"
+    ],
+    "Diretores": [
+      "Tatsuya Yoshihara"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt30472557/?ref_=chttp_i_229"
+  },
+  {
+    "Posicao": 230,
+    "Titulo": "O Grande Lebowski",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNDI3MTExMTUtNzA0NS00MTFhLTg0YjUtMmRhZDUwMzJiZTU2XkEyXkFqcGc@._V1_QL75_UY281_CR9,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNDI3MTExMTUtNzA0NS00MTFhLTg0YjUtMmRhZDUwMzJiZTU2XkEyXkFqcGc@._V1_QL75_UY281_CR9,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Buddy Comedy",
+      "Comédia “stoner”",
+      "Crime de drogas",
+      "Sátira",
+      "Comédia",
+      "Crime"
+    ],
+    "Diretores": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0118715/?ref_=chttp_i_230"
+  },
+  {
+    "Posicao": 231,
+    "Titulo": "Os Melhores Anos de Nossas Vidas",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNWJkN2E2NDMtZTQ2My00NWFlLThkYTctODRmM2Y0MGM1ZWQzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNWJkN2E2NDMtZTQ2My00NWFlLThkYTctODRmM2Y0MGM1ZWQzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Épico",
+      "Épico de guerra",
+      "Épico romântico",
+      "Romance alegre",
+      "Drama",
+      "Guerra",
+      "Romance"
+    ],
+    "Diretores": [
+      "William Wyler"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0036868/?ref_=chttp_i_231"
+  },
+  {
+    "Posicao": 232,
+    "Titulo": "Antes do Pôr do Sol",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjAyMWNkMmQtNDhiOC00NWRlLWIzYjEtNzlmNTE0ODAxMmYwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjAyMWNkMmQtNDhiOC00NWRlLWIzYjEtNzlmNTE0ODAxMmYwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Romance alegre",
+      "Drama",
+      "Romance"
+    ],
+    "Diretores": [
+      "Richard Linklater"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0381681/?ref_=chttp_i_232"
+  },
+  {
+    "Posicao": 233,
+    "Titulo": "O Quarto de Jack",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZTA5MTBiNzctM2Y0Mi00OGRjLWJiMTAtOGQ4MWE2YmFlNzI1XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZTA5MTBiNzctM2Y0Mi00OGRjLWJiMTAtOGQ4MWE2YmFlNzI1XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Drama psicológico",
+      "Drama",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Lenny Abrahamson"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt3170832/?ref_=chttp_i_233"
+  },
+  {
+    "Posicao": 234,
+    "Titulo": "O Sétimo Selo",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYzc4YWFiNmMtZDlkMy00NTM2LWJlN2ItYjcyNTU0NmQ5NWY3XkEyXkFqcGc@._V1_QL75_UY281_CR26,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYzc4YWFiNmMtZDlkMy00NTM2LWJlN2ItYjcyNTU0NmQ5NWY3XkEyXkFqcGc@._V1_QL75_UY281_CR26,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "sueca",
+      "Comédia de humor negro",
+      "Drama de época",
+      "Drama psicológico",
+      "Drama",
+      "Fantasia"
+    ],
+    "Diretores": [
+      "Ingmar Bergman"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0050976/?ref_=chttp_i_234"
+  },
+  {
+    "Posicao": 235,
+    "Titulo": "Hotel Ruanda",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNGU3MTA4ZWQtYjc0YS00M2EzLWFlNTItYTg0NjY1YTM1YjUyXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNGU3MTA4ZWQtYjc0YS00M2EzLWFlNTItYTg0NjY1YTM1YjUyXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Docudrama",
+      "Drama psicológico",
+      "Épico",
+      "Biografia",
+      "Drama",
+      "Guerra",
+      "História"
+    ],
+    "Diretores": [
+      "Terry George"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0395169/?ref_=chttp_i_235"
+  },
+  {
+    "Posicao": 236,
+    "Titulo": "Os Incríveis",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,0",
+    "Generos": [
+      "Ação épica",
+      "Animação de computador",
+      "Aventura épica",
+      "Aventura urbana",
+      "Super-herói",
+      "Ação",
+      "Animação",
+      "Aventura",
+      "Família"
+    ],
+    "Diretores": [
+      "Brad Bird"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0317705/?ref_=chttp_i_236"
+  },
+  {
+    "Posicao": 237,
+    "Titulo": "Sempre ao Seu Lado",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNTU5NjYyYTgtZGQ3My00MzRhLThjNGYtZmVjN2JjYjhkMjhhXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNTU5NjYyYTgtZGQ3My00MzRhLThjNGYtZmVjN2JjYjhkMjhhXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Aventura animal",
+      "Biografia",
+      "Drama",
+      "Família"
+    ],
+    "Diretores": [
+      "Lasse Hallström"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1028532/?ref_=chttp_i_237"
+  },
+  {
+    "Posicao": 238,
+    "Titulo": "Platoon",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Aventura na selva",
+      "Docudrama",
+      "Drama de época",
+      "Drama psicológico",
+      "Tragédia",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Oliver Stone"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0091763/?ref_=chttp_i_238"
+  },
+  {
+    "Posicao": 239,
+    "Titulo": "O Exorcista",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYTgxYmQ0ODQtNGFmZC00NTg5LWJmODItZDZlZjA3MGIxN2JjXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYTgxYmQ0ODQtNGFmZC00NTg5LWJmODItZDZlZjA3MGIxN2JjXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Drama psicológico",
+      "Horror corporal",
+      "Terror psicológico",
+      "Terror sobrenatural",
+      "Tragédia",
+      "Horror"
+    ],
+    "Diretores": [
+      "William Friedkin"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0070047/?ref_=chttp_i_239"
+  },
+  {
+    "Posicao": 240,
+    "Titulo": "Rush: No Limite da Emoção",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BYmNhN2E3Y2EtZjk5My00NDBiLWI2OWItNWQwMzJmN2IzZDBmXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BYmNhN2E3Y2EtZjk5My00NDBiLWI2OWItNWQwMzJmN2IzZDBmXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Docudrama",
+      "Drama de época",
+      "Motorsport",
+      "Biografia",
+      "Drama",
+      "Esporte"
+    ],
+    "Diretores": [
+      "Ron Howard"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt1979320/?ref_=chttp_i_240"
+  },
+  {
+    "Posicao": 241,
+    "Titulo": "O Gigante de Ferro",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Animação desenhada à mão",
+      "Buddy Comedy",
+      "Comédia de alto conceito",
+      "Ficção científica espacial",
+      "Inteligência artificial",
+      "Invasão alienígena",
+      "Kaiju",
+      "Ação",
+      "Animação",
+      "Aventura"
+    ],
+    "Diretores": [
+      "Brad Bird"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0129167/?ref_=chttp_i_241"
+  },
+  {
+    "Posicao": 242,
+    "Titulo": "O Mágico de Oz",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNWY3OWRmYTYtYWM2Ny00NzNiLWJmY2UtYzI1NTRkZDdhZWE1XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNWY3OWRmYTYtYWM2Ny00NzNiLWJmY2UtYzI1NTRkZDdhZWE1XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Aventura épica",
+      "Contos de fadas",
+      "Fantasia épica",
+      "Missão",
+      "Musical clássico",
+      "Aventura",
+      "Família",
+      "Fantasia",
+      "Musical"
+    ],
+    "Diretores": [
+      "Victor Fleming",
+      "George Cukor",
+      "Norman Taurog"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0032138/?ref_=chttp_i_242"
+  },
+  {
+    "Posicao": 243,
+    "Titulo": "Conta Comigo",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMjBhOGEzNzEtMGFlYi00ZjE2LWJmMTUtNzA1ZGY2MWRkZWYxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMjBhOGEzNzEtMGFlYi00ZjE2LWJmMTUtNzA1ZGY2MWRkZWYxXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Amadurecimento",
+      "Comédia de humor negro",
+      "Drama psicológico",
+      "Missão",
+      "Aventura",
+      "Drama"
+    ],
+    "Diretores": [
+      "Rob Reiner"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0092005/?ref_=chttp_i_243"
+  },
+  {
+    "Posicao": 244,
+    "Titulo": "Meu Pai e Meu Filho",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BZDE3MTBkNmQtNGFjMC00YTcwLWExY2ItN2MyMGZkNWJlMmFmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BZDE3MTBkNmQtNGFjMC00YTcwLWExY2ItN2MyMGZkNWJlMmFmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "turca",
+      "Amadurecimento",
+      "Drama político",
+      "Drama psicológico",
+      "Drama",
+      "Família"
+    ],
+    "Diretores": [
+      "Çagan Irmak"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0476735/?ref_=chttp_i_244"
+  },
+  {
+    "Posicao": 245,
+    "Titulo": "A Batalha de Argel",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_QL75_UX190_CR0,4,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "árabe",
+      "Docudrama",
+      "Drama político",
+      "Drama",
+      "Guerra"
+    ],
+    "Diretores": [
+      "Gillo Pontecorvo"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0058946/?ref_=chttp_i_245"
+  },
+  {
+    "Posicao": 246,
+    "Titulo": "O Martírio de Joana D'Arc",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Drama de época",
+      "Drama histórico",
+      "Drama jurídico",
+      "Drama psicológico",
+      "Tragédia",
+      "Biografia",
+      "Drama",
+      "História"
+    ],
+    "Diretores": [
+      "Carl Theodor Dreyer"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0019254/?ref_=chttp_i_246"
+  },
+  {
+    "Posicao": 247,
+    "Titulo": "A Criada",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BNTBlNDAyNWEtZGQ3Yi00NzBiLTg4ZTMtMWFkNjRkMTVhMmM3XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BNTBlNDAyNWEtZGQ3Yi00NzBiLTg4ZTMtMWFkNjRkMTVhMmM3XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "coreana",
+      "Épico romântico",
+      "Romance sensual",
+      "Romance sombrio",
+      "Suspenses psicológicos",
+      "Thriller erótico",
+      "Drama",
+      "Romance",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Park Chan-wook"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt4016934/?ref_=chttp_i_247"
+  },
+  {
+    "Posicao": 248,
+    "Titulo": "Rede de Intrigas",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BN2Y5ODBlOTktMWQyYi00NTVmLWEzNmEtM2JkZWQ0ZDllODYwXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BN2Y5ODBlOTktMWQyYi00NTVmLWEzNmEtM2JkZWQ0ZDllODYwXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,1",
+    "Generos": [
+      "Comédia de humor negro",
+      "Drama no trabalho",
+      "Drama psicológico",
+      "Drama"
+    ],
+    "Diretores": [
+      "Sidney Lumet"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt0074958/?ref_=chttp_i_248"
+  },
+  {
+    "Posicao": 249,
+    "Titulo": "A Chantagem",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BMDRlZWFkMjEtYmYyZi00MmE5LWIzMzUtYmM2N2M5Y2UxZDJjXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BMDRlZWFkMjEtYmYyZi00MmE5LWIzMzUtYmM2N2M5Y2UxZDJjXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "Nota_IMDb": "8,2",
+    "Generos": [
+      "hindi",
+      "Suspense – Mistério",
+      "Crime",
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "Diretores": [
+      "Nishikant Kamat"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt4430212/?ref_=chttp_i_249"
+  },
+  {
+    "Posicao": 250,
+    "Titulo": "Troca Surpresa",
+    "Ano": null,
+    "URL_Poster": "https://m.media-amazon.com/images/M/MV5BY2VhMGZkMTQtYjU4MC00MWM5LWI1NzctZDQwYTNkZjNhNGY1XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Imagem_Poster": "https://m.media-amazon.com/images/M/MV5BY2VhMGZkMTQtYjU4MC00MWM5LWI1NzctZDQwYTNkZjNhNGY1XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "Nota_IMDb": "8,3",
+    "Generos": [
+      "hindi",
+      "Comédia peculiar",
+      "Comédia",
+      "Drama"
+    ],
+    "Diretores": [
+      "Kiran Rao"
+    ],
+    "URL": "https://www.imdb.com/pt/title/tt21626284/?ref_=chttp_i_250"
   }
 ]
